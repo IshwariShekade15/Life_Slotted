@@ -1,0 +1,110 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --radius-card: 12px;
+  color-scheme: light;
+  --color-bg: 247 248 242;
+  --color-surface: 255 255 252;
+  --color-ink: 12 31 24;
+  --color-muted: 91 105 96;
+  --color-subtle: 126 140 129;
+  --color-border: 221 225 216;
+  --color-meeting: 224 237 220;
+  --landing-bg: 244 244 240;
+  --landing-surface: 251 251 248;
+  --landing-ink: 21 21 21;
+  --landing-muted: 98 98 93;
+  --landing-subtle: 125 125 117;
+  --landing-border: 223 223 216;
+  --landing-blue: 150 190 53;
+  --landing-blue-soft: 237 245 223;
+  --landing-mint: 216 235 202;
+  --landing-coral: 232 239 216;
+  --landing-quick-bg: 16 39 30;
+  --landing-quick-text: 239 244 226;
+  --landing-quick-accent: 193 244 73;
+}
+:root.dark {
+  color-scheme: dark;
+  --color-bg: 18 28 23;
+  --color-surface: 27 42 34;
+  --color-ink: 239 244 226;
+  --color-muted: 177 193 179;
+  --color-subtle: 139 160 144;
+  --color-border: 58 78 65;
+  --color-meeting: 45 71 59;
+  --landing-bg: 18 28 23;
+  --landing-surface: 27 42 34;
+  --landing-ink: 239 244 226;
+  --landing-muted: 177 193 179;
+  --landing-subtle: 139 160 144;
+  --landing-border: 58 78 65;
+  --landing-blue: 193 244 73;
+  --landing-blue-soft: 45 71 59;
+  --landing-mint: 39 79 58;
+  --landing-coral: 77 82 49;
+  --landing-quick-bg: 239 244 226;
+  --landing-quick-text: 18 28 23;
+  --landing-quick-accent: 150 190 53;
+}
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; transition: background-color 180ms ease, color 180ms ease; }
+button, input, select, textarea { font: inherit; }
+input, select, textarea { color: rgb(var(--color-ink)); background-color: rgb(var(--color-surface)); }
+select option { color: rgb(var(--color-ink)); background-color: rgb(var(--color-surface)); }
+input::placeholder, textarea::placeholder { color: rgb(var(--color-subtle)); opacity: 1; }
+@media (prefers-reduced-motion: no-preference) {
+  .animate-in { animation: slide-in 200ms ease-out both; }
+}
+@keyframes slide-in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+
+.app-shell {
+  --app-bg: 247 248 242;
+  --app-surface: 255 255 252;
+  --app-ink: 12 31 24;
+  --app-muted: 91 105 96;
+  --app-subtle: 126 140 129;
+  --app-border: 221 225 216;
+  --app-sidebar: 16 39 30;
+  --app-sidebar-ink: 239 244 226;
+  --app-lime: 193 244 73;
+  --app-lime-dark: 150 190 53;
+  min-height: 100vh;
+  background: rgb(var(--app-bg));
+  color: rgb(var(--app-ink));
+}
+.app-shell .app-sidebar { background: rgb(var(--app-sidebar)); color: rgb(var(--app-sidebar-ink)); }
+.app-shell .app-sidebar-muted { color: rgb(170 190 172); }
+.app-shell .app-card { background: rgb(var(--app-surface)); border: 1px solid rgb(var(--app-border)); }
+.app-shell .app-muted { color: rgb(var(--app-muted)); }
+.app-shell .app-subtle { color: rgb(var(--app-subtle)); }
+.app-shell .app-lime { color: rgb(var(--app-lime-dark)); }
+.app-shell .app-lime-bg { background: rgb(var(--app-lime)); color: rgb(var(--app-ink)); }
+.app-shell .app-heading { letter-spacing: -0.055em; font-weight: 500; }
+.app-shell input, .app-shell select, .app-shell textarea { color: rgb(var(--app-ink)); background-color: rgb(var(--app-surface)); }
+.app-shell select option { color: rgb(var(--app-ink)); background-color: rgb(var(--app-surface)); }
+.app-shell .calendar-task-purple { background: rgb(238 230 248); border-color: rgb(155 114 209); color: rgb(64 42 92); }
+.app-shell .calendar-task-blue { background: rgb(229 240 247); border-color: rgb(109 158 196); color: rgb(31 66 91); }
+.app-shell .calendar-task-green { background: rgb(234 241 223); border-color: rgb(157 180 125); color: rgb(48 73 38); }
+.app-shell .calendar-task-orange { background: rgb(247 234 219); border-color: rgb(213 155 98); color: rgb(104 62 25); }
+.app-shell .calendar-task-risk { background: rgb(247 222 222); border-color: rgb(230 109 109); color: rgb(125 48 48); }
+.app-shell .calendar-task-time { color: currentColor; opacity: 0.78; }
+ :root.dark .app-shell .calendar-task-purple { background: rgb(73 52 96); border-color: rgb(190 151 235); color: rgb(246 238 255); }
+ :root.dark .app-shell .calendar-task-blue { background: rgb(38 75 99); border-color: rgb(137 190 227); color: rgb(235 248 255); }
+ :root.dark .app-shell .calendar-task-green { background: rgb(53 82 48); border-color: rgb(174 203 139); color: rgb(242 251 231); }
+ :root.dark .app-shell .calendar-task-orange { background: rgb(105 69 37); border-color: rgb(235 177 112); color: rgb(255 242 226); }
+ :root.dark .app-shell .calendar-task-risk { background: rgb(105 48 48); border-color: rgb(255 139 139); color: rgb(255 235 235); }
+ :root.dark .app-shell .calendar-task-time { color: currentColor; opacity: 0.84; }
+.app-shell button, .app-shell a { transition: background-color 160ms ease, color 160ms ease, border-color 160ms ease, transform 160ms ease; }
+.app-shell .app-sidebar a[data-active="true"] { background: rgb(48 72 59); color: rgb(var(--app-lime)); box-shadow: inset 2px 0 rgb(var(--app-lime)); }
+.app-shell .app-sidebar a:hover { background: rgb(37 61 49); }
+ :root.dark .app-shell {
+    --app-bg: 18 28 23;
+    --app-surface: 27 42 34;
+    --app-ink: 239 244 226;
+    --app-muted: 177 193 179;
+    --app-subtle: 139 160 144;
+    --app-border: 58 78 65;
+}
