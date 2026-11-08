@@ -1,0 +1,368 @@
+SLOTTED
+Auto-schedule your life around everything. No planning required.
+AI Agent Build Specification 227 v1.1 267 Includes Meeting Blocks
+Most productivity apps make you do the planning. You still have to decide what goes where, dragblocks around when life happens, and restart when you fall behind. Slotted removes that entirelayer. You dump what you need to do 227 with a deadline, a rough duration, and how often itrepeats 227 and the app builds your schedule automatically. When something goes sideways (andit will), Slotted rebalances without you lifting a finger. It never shows you a streak you broke. Itnever pretends you have more time than you do. It just keeps you moving.
+Who It's For
+177 People with ADHD who freeze at the planningstage
+177 Students managing assignments, exams, andsocial life
+177 Anyone who over-commits and discovers it too late
+177 People who fall off a habit and give up because thestreak reset
+177 Professionals juggling recurring and one-off work
+177 People who want honesty 227 'you won't finish thisby Friday' 227 not false comfort
+177 Anyone tired of spending 30 min planning a 2 hrworkday
+177 Anyone who tried FlowSavvy but found it too rigidor too manual
+The Core Problem Being Solved
+177   Planning fatigue: for ADHD users especially, the act of planning is as exhausting as the work itself.Slotted makes the plan for you.
+177   False scheduling: most apps let you add infinite tasks without telling you there's no time for them.Slotted shows your real remaining capacity live.
+177   Rigidity on failure: when one task runs late or gets skipped, every other app breaks 227 youmanually drag everything. Slotted auto-rebalances.
+177   Shame mechanics in habit apps: streak counters that reset to zero punish ADHD users who falloff. Slotted uses rolling % instead 227 one missed day barely moves the needle.
+Slotted 227 Full Build Spec 267 Confidential 267 Built for real users, not demos
+COMPLETE FEATURE LIST
+CORE SCHEDULING ENGINE
+177   Brain-dump task entry: add a task with just a title and duration 227 every other field is optional. Nofriction, no long forms up front.
+177   Auto-scheduling: the algorithm places every task and habit into the user's available time windowsautomatically. Zero manual time-blocking.
+177   Priority-based sorting: each task has a user-set priority (High / Medium / Low) that controls wherethe scheduler places it relative to others.
+177   Task decay / urgency creep: a task's effective scheduling priority rises automatically as its deadlineapproaches 227 a 'Low' task due tomorrow will outrank a 'High' task due next month. Recomputed onevery schedule run.
+177   Deadline awareness: every task can have an optional deadline. The scheduler ensures deadlinetasks are slotted before their due date or flags them if they won't fit.
+177   Divisible tasks: long tasks (e.g. a 3hr project) can be marked splittable. The scheduler breaks theminto chunks (minimum chunk size set by user) and slots each chunk into separate available windows.
+177   Recurring tasks and habits: tasks can recur daily, weekdays only, on custom selected days, or Ntimes per week. The scheduler handles recurrence automatically.
+177   Availability windows: users define when they're free each day (e.g. Mon226Fri 9am22610pm). Thescheduler only places tasks inside these windows 227 never outside.
+177   At-risk flagging: if a task cannot be scheduled before its deadline given current capacity, it'sflagged 'at risk' and surfaced prominently 227 not silently dropped.
+AUTO-REBALANCING (KEY DIFFERENTIATOR)
+177   Instant rebalancing on skip: if a task block is skipped, the scheduler immediately re-slots it into thenext viable opening 227 no manual dragging.
+177   Instant rebalancing on completion: if a task finishes early, remaining capacity is freed and thenext pending task is pulled forward.
+177   Cascade on edit: editing a task's duration, deadline, or priority triggers a full reschedule soeverything else adjusts accordingly.
+177   'Redo my day' button: one-tap full rebalance from Today view. Useful when the day goescompletely sideways.
+177   Moved indicator: blocks that were auto-moved show a 'rescheduled' badge so the user knows whatshifted and why.
+177   Background cron rebalance: every 15 minutes, the backend checks for blocks whose time passedwithout completion and automatically re-slots them.
+CAPACITY FORECASTING (KEY DIFFERENTIATOR)
+177   Live 'X hours free this week' display: shown on the Dump screen and Week view, updated in realtime as tasks are added.
+177   Overcommitment warning: if adding a new task would push total scheduled time beyond availablecapacity, an inline orange warning appears 227 user can still save, but they see it clearly.
+177   Per-day capacity awareness: the scheduler knows how much free time exists on each individualday, not just the week total.
+HABIT TRACKING (KEY DIFFERENTIATOR)
+177   Streak-free tracking: habits are tracked as a rolling 14-day and 30-day completion percentage. Nostreak counter. Ever. One missed day barely moves the needle instead of resetting to zero.
+177   Calendar heatmap: each habit has a last-30-days heatmap (green = done, grey = missed) so userscan see patterns without judgment.
+177   Colour-coded health bar: green if % > 70, amber if 4022670, red if < 40. Calm and informative, notpunitive.
+177   Habit blocks on schedule: habits appear on Today view and Week view like regular tasks 227 tap tomark complete or missed.
+TASK MANAGEMENT
+177   Quick-add bar: always visible at the top of the Dump screen. Title + Enter = task saved in under 3seconds with sensible defaults.
+177   Advanced form: expandable for deadline, recurrence, divisibility, min chunk size, priority 227accessed via toggle, never forced.
+177   Backlog view: all tasks sorted by effective priority (decayed) by default. Filter by All / Habits /One-off / At Risk.
+177   Swipe actions: swipe left on a task card to delete, swipe right to complete (non-recurring tasksonly).
+177   Full edit on any task: change any field at any time. Changes trigger a rebalance immediately.
+177   Granular deletion: delete today's occurrence only / all future occurrences / the task entirely (eachwith confirmation).
+177   Granular edit on recurring tasks: edit today only / edit this and all future occurrences.
+MEETING BLOCKS (FIXED TIME COMMITMENTS)
+177   One-off meeting: user adds a meeting with a title, date, start time, and end time. That time windowis immediately blocked off 227 the scheduler will never place a task there.
+177   Recurring meeting: user can set a meeting to repeat daily or on specific days of the week (e.g.every Monday and Wednesday). They also set an end date 227 the recurring meeting stops generatingblocks after that date.
+177   Meeting recurrence options: One-time only / Every day / Custom days (weekday checkboxes) /Every weekday (Mon226Fri). Plus an optional end date for all recurring types.
+177   Scheduler treats meeting blocks as hard constraints: identical in weight to the user's availabilitywindows 227 no task is ever slotted into a meeting slot, even if that's the only opening.
+177   Meetings appear on Today view and Week view as distinct visual blocks 227 a different colour/stylefrom task blocks so the user can immediately see fixed vs flexible time.
+177   Capacity forecasting accounts for meetings: the 'X hours free this week' number alreadysubtracts meeting time, so the user sees true available capacity.
+177   Edit a recurring meeting: same pattern as recurring tasks 227 'Edit today only' vs 'Edit this and allfuture occurrences'.
+177   Delete a meeting: same pattern 227 'Delete today only' vs 'Delete all future occurrences' vs 'Deleteentirely'. After deletion, rebalance triggers so freed time is used by tasks.
+177   No joining/video link in v1: meetings are purely time blocks for scheduling purposes. No emailinvites, no Teams/Zoom links 227 that is a v2 feature.
+UX & INTERACTION DETAILS
+177   Bottom sheet pattern: all modals, confirmations, and option menus slide up from the bottom 227 nocenter-screen popups.
+177   Skeleton loading states: Today view and Week view show skeleton screens while fetching 227 notspinners.
+177   Inline validation: errors appear below the relevant field immediately 227 not toast popups thatdisappear.
+177   Non-blocking success toasts: brief (1.5s) confirmation at the bottom for task added / taskcompleted.
+177   Current time indicator: a red line on Today view timeline showing the current time (like GoogleCalendar).
+177   Empty states with next-action prompts: every empty state tells the user exactly what to do next,with a shortcut button.
+177   Reduced motion support: all animations wrapped in prefers-reduced-motion media query.
+177   Dark mode: fully supported via system preference (prefers-color-scheme). All colours defined asCSS variables.
+177   Fully responsive, mobile-first: designed for phone use first. Max content width 480px on desktop.
+USER FLOWS 227 HOW SLOTTED HELPS IN REAL LIFE
+FLOW 1 227 NEW USER SETS UP
+1.   Opens app 256 sees Welcome screen with value prop.
+2.   Signs up with email or Google.
+3.   Sets availability: toggles days on/off, sets start/end time per day. Defaults to Mon226Fri 9am22610pm.
+4.   Lands on Dump screen. Sees 'X hrs free this week' and a quick-add bar.
+5.   Adds first task 256 it's scheduled automatically 256 navigates to Today view to see it placed.
+FLOW 2 227 DAILY USE (MORNING DUMP)
+1.   User opens app in the morning. Today view already has yesterday's unfinished tasks rebalancedin.
+2.   User thinks of 2 new things to do. Taps quick-add bar, types task name + duration, hits Entertwice. Done in 15 seconds.
+3.   Sees updated Today view with new tasks slotted in. Capacity bar shows remaining free time.
+4.   Goes about their day. Marks blocks complete as they finish them.
+5.   If they skip something: taps Skip 256 chooses 'Reschedule to later' 256 it disappears and reappearslater in the timeline automatically.
+FLOW 3 227 OVERCOMMITTED USER GETS WARNED
+1.   User has 4 hrs free Thursday.
+2.   Adds a 5hr non-divisible task due Thursday.
+3.   Immediately sees inline orange warning: 'Adding this task exceeds your available time Thursday.'
+4.   Also sees the task flagged 'at risk' in backlog 227 it cannot be scheduled before its deadline.
+5.   User either marks the task as divisible (so it can be split across days) or pushes the deadline.
+FLOW 4 227 HABIT USER TRACKS WITHOUT SHAME
+1.   User has a 'Read 20 min' daily habit.
+2.   Misses Monday and Tuesday due to life.
+3.   Opens Habit Overview: sees 71% over 14 days, green bar 227 two misses didn't tank it.
+4.   No streak reset. No guilt message. Just the data.
+5.   Gets motivated by the heatmap showing mostly green 227 wants to keep it that way.
+FLOW 6 227 USER ADDS RECURRING MEETING
+1.   User has a daily standup Mon226Fri at 10am22610:30am until end of semester (Dec 15).
+2.   Opens app 256 taps '+' 256 switches to 'Meeting' tab in the add screen.
+3.   Enters: title 'Standup', start 10:00, end 10:30, recurrence: Weekdays, end date: Dec 15.
+4.   Saves. App generates meeting blocks for every weekday until Dec 15. Today view immediatelyshows the standup block in a distinct colour.
+5.   Scheduler re-runs. Any task that was previously placed in the 10:0022610:30 slot is moved to thenext available opening. Capacity forecast updates.
+6.   If the standup gets cancelled one day: user taps the meeting block 256 'Delete today only'. Thatslot opens up and rebalance pulls a task into it.
+FLOW 5 227 WEEK GOES SIDEWAYS
+1.   User has a packed Wednesday. A meeting runs 2 hours long.
+2.   Tasks that were scheduled for that time pass without completion.
+3.   Background cron detects this. Full rebalance runs. Tasks are re-slotted to Thursday/Friday openwindows.
+4.   User opens app Thursday morning. Sees the updated plan. 'Rescheduled' badge on movedblocks.
+5.   Taps 'Redo my day' if they want to further adjust. Plan regenerates in under 1 second.
+SYSTEM DESIGN PRINCIPLES 227 BUILD TO THESE
+API DESIGN
+177   RESTful, resource-oriented: /tasks, /schedule, /habits, /availability 227 no RPC-style endpoints.
+177   Single responsibility: each endpoint does one thing. POST /tasks creates a task. The schedulerruns as a side effect internally, not a separate manual API call the frontend has to make.
+177   Optimistic UI: frontend updates the local state immediately on user action, then confirms with theserver. If the server fails, roll back with an error message. Never make the user wait for a spinnerbefore seeing their task appear.
+177   Idempotent scheduler: running the scheduler twice on the same data produces the same result. Noduplicate blocks. Use upsert, not insert.
+177   JWT auth only: never accept user_id as a body or query parameter. Always extract it from thevalidated Supabase JWT in the Authorization header.
+177   RLS on every Supabase table: users can only read/write their own rows. This is enforced at thedatabase level, not just the API level.
+SCHEDULER DESIGN
+177   Stateless per run: the scheduler takes inputs (tasks, availability, current time) and returnsscheduled blocks. It does not store intermediate state or depend on the previous run's output.
+177   Deterministic: same inputs always produce the same output. This makes it testable anddebuggable.
+177   Separation from API: scheduler.py is a pure Python module with no FastAPI imports. The API layercalls it; the scheduler doesn't know about HTTP.
+177   Graceful degradation: if a task cannot be scheduled, the app tells the user clearly (at-risk flag) andcontinues scheduling everything else. Never crash or return an empty schedule because one task didn'tfit.
+177   Write unit tests for the scheduler before building the API. Test: priority decay formula, slot-fittingwith exact minute boundaries, chunk splitting, at-risk detection, rebalancing after a skip.
+FRONTEND ARCHITECTURE
+177   Component hierarchy: App 256 Layout (BottomNav) 256 Screen (Today / Week / Dump / Backlog /Habits). Screens are independent route-level components.
+177   Global state: use React Context or Zustand for: current user, schedule data, capacity stats, loadingstates. Do not prop-drill these.
+177   Data fetching: use React Query (TanStack Query) for all API calls. It handles caching, refetching onfocus, and loading/error states cleanly.
+177   After any mutation (complete/skip/add/delete): invalidate the /schedule query so Today andWeek views refetch automatically.
+177   CSS variables for theming: all colours defined as --color-* variables on :root. Dark mode overridesin @media (prefers-color-scheme: dark). Never hardcode hex values in component files.
+177   No inline styles: all styling via Tailwind utility classes. For complex one-off styles, use a CSSmodule.
+ERROR HANDLING 227 NON-NEGOTIABLE
+177   Every API call has a try/catch. No unhandled promise rejections.
+177   Network errors: show an inline 'Something went wrong 227 tap to retry' message, not a blank screen.
+177   Validation errors: returned from FastAPI as 422 with field-level detail. Frontend maps these toinline field errors, not a generic toast.
+177   Scheduler failures: if the scheduler errors (e.g. corrupted availability data), return the user's existingschedule unchanged and log the error. Never return an empty schedule.
+177   Auth expiry: if JWT expires mid-session, redirect to login with a 'Session expired 227 please log inagain' message. Do not silently fail.
+UI / DESIGN SYSTEM
+DESIGN PHILOSOPHY
+177   Reduce cognitive load above all else. This app is for people who get overwhelmed. Every screenmust have one primary action. Remove everything that isn't essential.
+177   Calm confidence: the app should feel like a capable assistant, not a nagging productivity coach. Noguilt mechanics, no congratulation confetti, no gamification.
+177   Informative, not decorative: every visual element (colour, size, weight) carries meaning. Prioritycolours = urgency. Bar width = completion %. Nothing is decorative noise.
+177   Mobile-first, always: every design decision is made for a 390px screen first. Desktop is a widerversion of mobile, not a separate layout.
+COLOUR PALETTE
+Token
+Hex
+Usage
+--color-bg
+#F9F9FF
+Page background
+--color-surface
+#FFFFFF
+Cards, bottom sheets, modals
+--color-accent
+#5B5FEF
+Primary CTAs, active nav, links
+--color-accent-2
+#7C3AED
+Secondary accent, habit bars
+--color-text-1
+#1A1A2E
+Headings, primary text
+--color-text-2
+#4A4A6A
+Body, descriptions
+--color-text-3
+#94A3B8
+Labels, timestamps, placeholders
+--color-high
+#EF4444
+High priority, at-risk, errors
+--color-medium
+#F59E0B
+Medium priority, warnings
+--color-low
+#94A3B8
+Low priority
+--color-success
+#16A34A
+Completed tasks, habit bars > 70%
+--color-border
+#E2E2F0
+Card borders, dividers
+--color-meeting
+#EDE9FE
+Meeting block background (light purple)
+--color-meeting-bd
+#7C3AED
+Meeting block border / icon colour
+TYPOGRAPHY
+177   Font family: Inter (Google Fonts). Load weights 400, 500, 600, 700 only.
+177   Scale: 28px display title / 20px section heading / 16px subsection / 14px body / 12px label / 10pxcaption.
+177   Line heights: 1.4327 font size minimum. Never let text feel cramped.
+177   Weight usage: 700 for screen titles only. 600 for card headings. 500 for body emphasis. 400 for allregular body text and labels.
+SPACING SYSTEM (4PX BASE UNIT)
+Token
+Value
+Usage
+--space-1
+4px
+Icon padding, tight gaps
+--space-2
+8px
+Between label and input
+--space-3
+12px
+Card inner padding (tight)
+--space-4
+16px
+Default card padding, section gaps
+--space-6
+24px
+Between sections on a screen
+--space-8
+32px
+Between major layout blocks
+COMPONENT SPECS
+177   Cards: white background, 1px border (#E2E2F0), border-radius 12px, box-shadow: 0 1px 4pxrgba(0,0,0,0.06). No heavy drop shadows.
+177   Buttons 227 Primary: background #5B5FEF, white text, 600 weight, 12px border-radius, 44px minheight (touch target), full width on mobile.
+177   Buttons 227 Secondary: white background, #5B5FEF border 1.5px, #5B5FEF text. Same sizing asprimary.
+177   Buttons 227 Destructive: white background, #EF4444 border 1.5px, #EF4444 text. Used only inconfirmation modals.
+177   Inputs: border 1.5px #E2E2F0, border-radius 8px, 44px height, 16px padding. On focus: borderbecomes #5B5FEF. On error: border becomes #EF4444, error text below in red.
+177   Bottom navigation bar: white, 1px top border #E2E2F0, 80px height including safe area. 5 items:Today / Week / + (Add) / Backlog / Habits. Add button is 52px circle, #5B5FEF, elevated with shadow.
+177   Bottom sheets: white, border-radius 16px top only, drag handle (323274px, #D0D0E0, centered attop), max-height 85vh, scrollable inside.
+177   Priority dots: 8px filled circles. Red (#EF4444) = High. Amber (#F59E0B) = Medium. Slate(#94A3B8) = Low.
+177   Timeline blocks (Today view): left border 3px in priority colour, white card body, title in--color-text-1, time range in --color-text-3. Height proportional to duration.
+177   Skeleton loaders: #E2E2F0 background, animated shimmer (background gradient animating left toright), border-radius matches the component it's replacing.
+177   Meeting blocks: background #EDE9FE (light purple), left border 3px #7C3AED, a small calendaricon (16px) left of the title, title in --color-text-1, time range in #7C3AED. No priority dot. Labelled'Meeting' in a small pill top-right of the block. Not draggable 227 visually cues this by removing the draghandle that task blocks have.
+ANIMATION RULES
+177   Block slide-in: new scheduled blocks animate in with transform: translateY(8px) 256 translateY(0) +opacity 02561. Duration: 200ms, ease-out.
+177   Bottom sheet open: transform: translateY(100%) 256 translateY(0). Duration: 280ms,cubic-bezier(0.32, 0.72, 0, 1).
+177   Rebalance cascade: when blocks shift positions, animate each one moving with 150ms delaystaggered by position. Keep it subtle.
+177   prefers-reduced-motion: wrap every animation in @media (prefers-reduced-motion:no-preference). If reduced motion is preferred, skip all animations.
+177   Nothing decorative. No confetti, no celebration animations, no pulse effects on empty states.
+SCREEN-BY-SCREEN UI SPEC
+177   Onboarding: full-screen white backgrounds. Centered content max-width 320px. Progress dots atthe top (3 steps). Large primary button at the bottom.
+177   Dump screen: quick-add bar is sticky at the top with two tabs: 'Task' (default) and 'Meeting'.Switching to Meeting tab changes the form fields 227 no duration field, instead: date, start time, end time,recurrence (one-time / daily / weekdays / custom days), and end date. Live capacity pill ('4h 30m free')right-aligned, already accounting for existing meetings. Below the bar: recently added tasks andupcoming meetings listed together in chronological order.
+177   Today view: date header at top. Current-time red line across the timeline. Two types of blocks onthe timeline: Task blocks (white card, left border in priority colour) and Meeting blocks(slate/purple-tinted background, calendar icon, title + time, not draggable). Meeting blocks are visuallydistinct and clearly non-movable. Tap a meeting block: shows options 'Cancel today only' / 'Deletemeeting' / 'Edit'. 'At risk' section below the timeline. 'Redo my day' icon button top-right.
+177   Week view: 7-column horizontal scroll grid. Column headers = day name + date. Today column hasaccent-coloured header. Meeting blocks appear in each day column as slate-tinted chips 227 visuallydifferent from task chips. Capacity bar at very top shows true free time (already subtracting meetings).Hovering/tapping a meeting chip shows its title and time.
+177   Backlog: filter bar (tabs: All / Habits / One-off / At Risk) sticky below the screen title. Task cards withswipe actions. At-risk cards have a red left border.
+177   Habit Overview: each habit is a card with name, 14-day bar, 30-day bar, and a tap-to-expandheatmap. No numbers shown on the bar itself 227 the colour tells the story. The percentage appears astext next to the bar.
+DATABASE SCHEMA (Supabase + Postgres)
+TABLES
+177   user_availability: id, user_id, day_of_week (02266), start_time, end_time
+177   tasks: id, user_id, title, duration_minutes, deadline (nullable), priority (high|medium|low), recurrence(none|daily|weekdays|custom_days|n_times_per_week), recurrence_days (int[]), recurrence_n (int),divisible (bool), min_block_minutes (int), status (pending|scheduled|completed|skipped|cancelled),is_habit (bool), created_at, updated_at
+177   scheduled_blocks: id, task_id, user_id, date, start_time, end_time, is_subpart (bool), status(upcoming|completed|skipped|moved), moved_from (uuid nullable 227 points to original block ifrebalanced)
+177   habit_logs: id, task_id, user_id, date, completed (bool) 227 one row per habit per day. NEVER storea streak field.
+177   meetings: id, user_id, title (text, required), start_time (time, required), end_time (time, required),date (date, nullable 227 set only for one-time meetings), recurrence (enum: none | daily | weekdays |custom_days), recurrence_days (int[], nullable), end_date (date, nullable 227 recurring meetings stopafter this date), created_at, updated_at.
+177   meeting_blocks: id, meeting_id, user_id, date, start_time, end_time, status (active | cancelled).One row per occurrence. Generated at save time for recurring meetings up to end_date (or 90 days outif no end_date). Regenerate when the meeting is edited.
+RLS REQUIRED: enable Row Level Security on every table. Policy: user_id = auth.uid(). Enforce atDB level, not just API level.
+SCHEDULING ALGORITHM
+EXECUTION STEPS (RUN ON EVERY TRIGGER)
+1.   Fetch all pending/scheduled tasks for the user from Supabase.
+2.   Fetch user availability windows for the target date range (today + 7 days).
+3.   For each task: compute effective_priority_score. Base: High=100, Medium=60, Low=30. Deadlineboost: <24h +80 / <48h +50 / <72h +30 / <168h +10. No deadline = base score only.
+4.   Sort tasks: descending by effective_priority_score. Tiebreaker: soonest deadline. Habits on theirdesignated days get priority over one-off tasks in the same window.
+5.   Build a per-day free-slot map from availability windows minus already-placed scheduled_blocksAND minus all meeting_blocks for that day. Meeting blocks are hard constraints 227 treatedidentically to unavailable time. A task is never placed in a meeting slot under any circumstance.
+6.   For each task (sorted): find the earliest free slot that fits the full duration before the deadline.Place it. Remove that slot from the free-slot map.
+7.   If divisible and no single slot fits: split into chunks 263 min_block_minutes. Place each chunkgreedily.
+8.   If no valid placement exists before deadline: mark task 'at_risk'. Do not crash. Continue withremaining tasks.
+9.   Upsert all resulting scheduled_blocks (delete old pending blocks for the user, insert new ones).Never duplicate.
+10.   Return: list of scheduled_blocks for the week + meeting_blocks for the week +{total_available_minutes, total_meeting_minutes, total_scheduled_minutes, free_minutes} capacitystats. free_minutes = total_available - total_meeting - total_scheduled.
+Write and unit-test scheduler.py BEFORE connecting it to the API. Test with mock data. It must bedeterministic and stateless.
+API ENDPOINTS (FastAPI)
+ALL ENDPOINTS REQUIRE AUTHORIZATION: BEARER
+Method
+Path
+Action
+Side Effect
+GET
+/availability
+Return user's windows
+227
+POST
+/availability
+Set window for a day
+227
+DELETE
+/availability/{id}
+Remove window
+Rebalance
+GET
+/tasks
+List tasks (filterable)
+227
+POST
+/tasks
+Create task
+Rebalance
+PATCH
+/tasks/{id}
+Edit task
+Rebalance
+DELETE
+/tasks/{id}
+Delete (with scope param: today|future|all)
+Rebalance
+PATCH
+/tasks/{id}/complete
+Complete a block for date
+Rebalance
+PATCH
+/tasks/{id}/skip
+Skip a block (today|reschedule)
+Rebalance
+GET
+/schedule/today
+Today's blocks + capacity
+227
+GET
+/schedule/week
+Week blocks + capacity
+227
+POST
+/schedule/rerun
+Manual full rebalance
+Rebalance
+GET
+/habits
+Habits + rolling % stats
+227
+POST
+/habits/{id}/log
+Log completion/miss for today
+227
+GET
+/meetings
+List all meetings + blocks
+227
+POST
+/meetings
+Create meeting (one-time or recurring)
+Rebalance
+PATCH
+/meetings/{id}
+Edit meeting (scope: today|future)
+Rebalance
+DELETE
+/meetings/{id}
+Delete meeting (scope: today|future|all)
+Rebalance
+PATCH
+/meetings/{id}/cancel
+Cancel one occurrence for a date
+Rebalance
+DELETION & EDIT LOGIC 227 ALL CASES
+DELETE TASK
+177   Recurring task delete modal options: (1) Delete today's occurrence only 227 removes only today'sblock, future recurrences unchanged. (2) Delete all future occurrences 227 removes blocks from todayonward, sets task status = cancelled. (3) Delete entirely 227 removes task + ALL blocks + ALLhabit_logs (second confirmation required: 'This deletes all history too'). (4) Cancel.
+177   Non-recurring task: show only 'Delete this task' and 'Cancel'. No occurrence options.
+177   After any deletion: trigger rebalance so freed slots are used by other tasks.
+EDIT RECURRING TASK
+177   Show bottom sheet: 'Edit today only' (one-off override block) vs 'Edit this and all future occurrences'(updates task record + regenerates all future blocks). Always trigger rebalance after.
+OTHER EDGE CASES
+177   Skip options: 'Skip today only' (mark missed, log to habit_logs) vs 'Skip and reschedule' (markskipped, rebalance to find next open slot, flag at-risk if none available before deadline).
+177   Editing availability 227 shrinks a window: warn 'X tasks will need to be rescheduled' before saving.Rebalance after.
+177   Two blocks overlap: scheduler must never produce overlapping blocks. If user drags a block intoan occupied slot (week view): show error 'Slot taken by [Task Name]', disallow.
+177   Deadline in the past: allow saving, show inline warning, immediately flag at-risk.
+177   Duration > longest free slot (non-divisible): after adding, show: 'No single free block fits this task.Mark as divisible or adjust availability?'
+177   Complete before scheduled time: mark done, free the slot, trigger rebalance to pull next taskforward.
+DELETE / EDIT MEETING
+177   One-time meeting delete: single confirmation 'Delete this meeting?' 256 delete meeting_block 256rebalance (freed slot now available for tasks).
+177   Recurring meeting delete modal options: (1) Cancel today's occurrence only 227 sets thatmeeting_block status = cancelled, future occurrences unchanged, rebalance. (2) Delete this and allfuture occurrences 227 removes meeting_blocks from today onward, rebalance. (3) Delete entirely 227removes meeting record and all meeting_blocks past and future, rebalance. (4) Cancel.
+177   Edit recurring meeting: bottom sheet 227 'Edit today only' (override that one block's time) vs 'Editthis and all future occurrences' (update meeting record + regenerate future blocks). Rebalance aftereither.
+177   Editing a meeting's time range: if the new time range overlaps with an already-scheduled taskblock, warn the user: 'This meeting overlaps with [Task Name] at [time]. That task will be rescheduled.'Proceed after confirmation. Rebalance.
+177   Adding a meeting that overlaps an existing meeting: show error 'You already have [MeetingName] at this time.' Do not allow saving.
+Slotted 227 Full Build Spec v1.0 267 Do not build anything outside this spec in v1

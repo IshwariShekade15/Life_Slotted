@@ -1,0 +1,1991 @@
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 749.1969 cm
+Q
+q
+1 0 0 1 62.69291 713.1969 cm
+q
+.101961 .101961 .180392 rg
+BT 1 0 0 1 0 6 Tm /F2 30 Tf 36 TL 164.9399 0 Td (SLOTTED) Tj T* -164.9399 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 689.1969 cm
+q
+.356863 .372549 .937255 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL 33.40588 0 Td (Auto-schedule your life around everything. No planning required.) Tj T* -33.40588 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 671.1969 cm
+q
+.290196 .290196 .415686 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL 98.21488 0 Td (AI Agent Build Specification \227 v1.1 \267 Includes Meeting Blocks) Tj T* -98.21488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 651.1969 cm
+Q
+q
+1 0 0 1 62.69291 645.1969 cm
+q
+2 w
+1 J
+.356863 .372549 .937255 RG
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 623.1969 cm
+Q
+q
+1 0 0 1 62.69291 521.1969 cm
+q
+.956863 .956863 1 rg
+n -14 -12 497.8898 126 re f*
+Q
+q
+BT 1 0 0 1 0 91 Tm -0.132515 Tw 17 TL /F1 11 Tf .101961 .101961 .180392 rg (Most productivity apps make you do the planning. You still have to decide what goes where, drag) Tj T* 0 Tw -0.01866 Tw (blocks around when life happens, and restart when you fall behind. ) Tj /F2 11 Tf (Slotted removes that entire) Tj T* 0 Tw 1.408154 Tw (layer.) Tj /F1 11 Tf ( You dump what you need to do \227 with a deadline, a rough duration, and how often it) Tj T* 0 Tw -0.114864 Tw (repeats \227 and the app builds your schedule automatically. When something goes sideways \(and) Tj T* 0 Tw .84781 Tw (it will\), Slotted rebalances without you lifting a finger. It never shows you a streak you broke. It) Tj T* 0 Tw (never pretends you have more time than you do. It just keeps you moving.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 505.1969 cm
+Q
+q
+1 0 0 1 62.69291 475.1969 cm
+q
+.101961 .101961 .180392 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (Who It's For) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.86614 381.1969 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 66 cm
+q
+.290196 .290196 .415686 rg
+BT 1 0 0 1 14 15 Tm /F1 9 Tf 12 TL (\177 People with ADHD who freeze at the planning) Tj T* (stage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 40 cm
+q
+.290196 .290196 .415686 rg
+BT 1 0 0 1 14 15 Tm /F1 9 Tf 12 TL (\177 Students managing assignments, exams, and) Tj T* (social life) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 26 cm
+q
+.290196 .290196 .415686 rg
+BT 1 0 0 1 14 3 Tm /F1 9 Tf 12 TL (\177 Anyone who over-commits and discovers it too late) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+.290196 .290196 .415686 rg
+BT 1 0 0 1 14 15 Tm /F1 9 Tf 12 TL -0.045941 Tw (\177 People who fall off a habit and give up because the) Tj T* 0 Tw (streak reset) Tj T* ET
+Q
+Q
+q
+1 0 0 1 226.7717 78 cm
+q
+.290196 .290196 .415686 rg
+BT 1 0 0 1 14 3 Tm /F1 9 Tf 12 TL (\177 Professionals juggling recurring and one-off work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 226.7717 52 cm
+q
+.290196 .290196 .415686 rg
+BT 1 0 0 1 14 15 Tm /F1 9 Tf 12 TL (\177 People who want honesty \227 'you won't finish this) Tj T* (by Friday' \227 not false comfort) Tj T* ET
+Q
+Q
+q
+1 0 0 1 226.7717 26 cm
+q
+.290196 .290196 .415686 rg
+BT 1 0 0 1 14 15 Tm /F1 9 Tf 12 TL (\177 Anyone tired of spending 30 min planning a 2 hr) Tj T* (workday) Tj T* ET
+Q
+Q
+q
+1 0 0 1 226.7717 0 cm
+q
+.290196 .290196 .415686 rg
+BT 1 0 0 1 14 15 Tm /F1 9 Tf 12 TL (\177 Anyone who tried FlowSavvy but found it too rigid) Tj T* (or too manual) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 377.1969 cm
+Q
+q
+1 0 0 1 62.69291 369.1969 cm
+Q
+q
+1 0 0 1 62.69291 339.1969 cm
+q
+.101961 .101961 .180392 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (The Core Problem Being Solved) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 307.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Planning fatigue:) Tj /F1 10 Tf ( for ADHD users especially, the act of planning is as exhausting as the work itself.) Tj T* (Slotted makes the plan for you.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 276.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (False scheduling:) Tj /F1 10 Tf ( most apps let you add infinite tasks without telling you there's no time for them.) Tj T* (Slotted shows your real remaining capacity live.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 245.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Rigidity on failure:) Tj /F1 10 Tf ( when one task runs late or gets skipped, every other app breaks \227 you) Tj T* (manually drag everything. Slotted auto-rebalances.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 214.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Shame mechanics in habit apps:) Tj /F1 10 Tf ( streak counters that reset to zero punish ADHD users who fall) Tj T* (off. Slotted uses rolling % instead \227 one missed day barely moves the needle.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 199.1969 cm
+Q
+q
+1 0 0 1 62.69291 194.6969 cm
+q
+.5 w
+1 J
+.815686 .815686 .909804 RG
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 176.6969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F3 9 Tf 12 TL 92.88438 0 Td (Slotted \227 Full Build Spec \267 Confidential \267 Built for real users, not demos) Tj T* -92.88438 0 Td ET
+Q
+Q
+ 
+
+
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 757.1969 cm
+q
+.356863 .372549 .937255 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (COMPLETE FEATURE LIST) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 750.6969 cm
+q
+.5 w
+1 J
+.815686 .815686 .909804 RG
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 729.6969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (CORE SCHEDULING ENGINE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Brain-dump task entry:) Tj /F1 10 Tf ( add a task with just a title and duration \227 every other field is optional. No) Tj T* (friction, no long forms up front.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 668.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Auto-scheduling:) Tj /F1 10 Tf ( the algorithm places every task and habit into the user's available time windows) Tj T* (automatically. Zero manual time-blocking.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 637.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Priority-based sorting:) Tj /F1 10 Tf ( each task has a user-set priority \(High / Medium / Low\) that controls where) Tj T* (the scheduler places it relative to others.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 592.6969 cm
+q
+BT 1 0 0 1 14 32 Tm -0.080602 Tw 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Task decay / urgency creep:) Tj /F1 10 Tf ( a task's effective scheduling priority rises automatically as its deadline) Tj T* 0 Tw (approaches \227 a 'Low' task due tomorrow will outrank a 'High' task due next month. Recomputed on) Tj T* (every schedule run.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 561.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Deadline awareness:) Tj /F1 10 Tf ( every task can have an optional deadline. The scheduler ensures deadline) Tj T* (tasks are slotted before their due date or flags them if they won't fit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 530.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Divisible tasks:) Tj /F1 10 Tf ( long tasks \(e.g. a 3hr project\) can be marked splittable. The scheduler breaks them) Tj T* (into chunks \(minimum chunk size set by user\) and slots each chunk into separate available windows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 499.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Recurring tasks and habits:) Tj /F1 10 Tf ( tasks can recur daily, weekdays only, on custom selected days, or N) Tj T* (times per week. The scheduler handles recurrence automatically.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 468.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Availability windows:) Tj /F1 10 Tf ( users define when they're free each day \(e.g. Mon\226Fri 9am\22610pm\). The) Tj T* (scheduler only places tasks inside these windows \227 never outside.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 437.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (At-risk flagging:) Tj /F1 10 Tf ( if a task cannot be scheduled before its deadline given current capacity, it's) Tj T* (flagged 'at risk' and surfaced prominently \227 not silently dropped.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 426.6969 cm
+Q
+q
+1 0 0 1 62.69291 405.6969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (AUTO-REBALANCING \(KEY DIFFERENTIATOR\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 375.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Instant rebalancing on skip:) Tj /F1 10 Tf ( if a task block is skipped, the scheduler immediately re-slots it into the) Tj T* (next viable opening \227 no manual dragging.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 344.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Instant rebalancing on completion:) Tj /F1 10 Tf ( if a task finishes early, remaining capacity is freed and the) Tj T* (next pending task is pulled forward.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 313.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Cascade on edit:) Tj /F1 10 Tf ( editing a task's duration, deadline, or priority triggers a full reschedule so) Tj T* (everything else adjusts accordingly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 282.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf ('Redo my day' button:) Tj /F1 10 Tf ( one-tap full rebalance from Today view. Useful when the day goes) Tj T* (completely sideways.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 251.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Moved indicator:) Tj /F1 10 Tf ( blocks that were auto-moved show a 'rescheduled' badge so the user knows what) Tj T* (shifted and why.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 220.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Background cron rebalance:) Tj /F1 10 Tf ( every 15 minutes, the backend checks for blocks whose time passed) Tj T* (without completion and automatically re-slots them.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 209.6969 cm
+Q
+q
+1 0 0 1 62.69291 188.6969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (CAPACITY FORECASTING \(KEY DIFFERENTIATOR\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 158.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Live 'X hours free this week' display:) Tj /F1 10 Tf ( shown on the Dump screen and Week view, updated in real) Tj T* (time as tasks are added.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 127.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Overcommitment warning:) Tj /F1 10 Tf ( if adding a new task would push total scheduled time beyond available) Tj T* (capacity, an inline orange warning appears \227 user can still save, but they see it clearly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 96.69685 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Per-day capacity awareness:) Tj /F1 10 Tf ( the scheduler knows how much free time exists on each individual) Tj T* (day, not just the week total.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 85.69685 cm
+Q
+q
+1 0 0 1 62.69291 64.69685 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (HABIT TRACKING \(KEY DIFFERENTIATOR\)) Tj T* ET
+Q
+Q
+ 
+
+
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 751.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Streak-free tracking:) Tj /F1 10 Tf ( habits are tracked as a rolling 14-day and 30-day completion percentage. No) Tj T* (streak counter. Ever. One missed day barely moves the needle instead of resetting to zero.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 720.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Calendar heatmap:) Tj /F1 10 Tf ( each habit has a last-30-days heatmap \(green = done, grey = missed\) so users) Tj T* (can see patterns without judgment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 689.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Colour-coded health bar:) Tj /F1 10 Tf ( green if % > 70, amber if 40\22670, red if < 40. Calm and informative, not) Tj T* (punitive.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 658.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Habit blocks on schedule:) Tj /F1 10 Tf ( habits appear on Today view and Week view like regular tasks \227 tap to) Tj T* (mark complete or missed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 647.1969 cm
+Q
+q
+1 0 0 1 62.69291 626.1969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (TASK MANAGEMENT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 596.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Quick-add bar:) Tj /F1 10 Tf ( always visible at the top of the Dump screen. Title + Enter = task saved in under 3) Tj T* (seconds with sensible defaults.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 565.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Advanced form:) Tj /F1 10 Tf ( expandable for deadline, recurrence, divisibility, min chunk size, priority \227) Tj T* (accessed via toggle, never forced.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 534.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Backlog view:) Tj /F1 10 Tf ( all tasks sorted by effective priority \(decayed\) by default. Filter by All / Habits /) Tj T* (One-off / At Risk.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 503.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Swipe actions:) Tj /F1 10 Tf ( swipe left on a task card to delete, swipe right to complete \(non-recurring tasks) Tj T* (only\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 486.1969 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Full edit on any task:) Tj /F1 10 Tf ( change any field at any time. Changes trigger a rebalance immediately.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 455.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Granular deletion:) Tj /F1 10 Tf ( delete today's occurrence only / all future occurrences / the task entirely \(each) Tj T* (with confirmation\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 438.1969 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Granular edit on recurring tasks:) Tj /F1 10 Tf ( edit today only / edit this and all future occurrences.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 427.1969 cm
+Q
+q
+1 0 0 1 62.69291 419.1969 cm
+Q
+q
+1 0 0 1 62.69291 398.1969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (MEETING BLOCKS \(FIXED TIME COMMITMENTS\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 368.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (One-off meeting:) Tj /F1 10 Tf ( user adds a meeting with a title, date, start time, and end time. That time window) Tj T* (is immediately blocked off \227 the scheduler will never place a task there.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 323.1969 cm
+q
+BT 1 0 0 1 14 32 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Recurring meeting:) Tj /F1 10 Tf ( user can set a meeting to repeat daily or on specific days of the week \(e.g.) Tj T* (every Monday and Wednesday\). They also set an ) Tj /F2 10 Tf (end date) Tj /F1 10 Tf ( \227 the recurring meeting stops generating) Tj T* (blocks after that date.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 292.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Meeting recurrence options:) Tj /F1 10 Tf ( One-time only / Every day / Custom days \(weekday checkboxes\) /) Tj T* (Every weekday \(Mon\226Fri\). Plus an optional end date for all recurring types.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 261.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Scheduler treats meeting blocks as hard constraints:) Tj /F1 10 Tf ( identical in weight to the user's availability) Tj T* (windows \227 no task is ever slotted into a meeting slot, even if that's the only opening.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 230.1969 cm
+q
+BT 1 0 0 1 14 18 Tm -0.030569 Tw 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Meetings appear on Today view and Week view) Tj /F1 10 Tf ( as distinct visual blocks \227 a different colour/style) Tj T* 0 Tw (from task blocks so the user can immediately see fixed vs flexible time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 199.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Capacity forecasting accounts for meetings:) Tj /F1 10 Tf ( the 'X hours free this week' number already) Tj T* (subtracts meeting time, so the user sees true available capacity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 168.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Edit a recurring meeting:) Tj /F1 10 Tf ( same pattern as recurring tasks \227 'Edit today only' vs 'Edit this and all) Tj T* (future occurrences'.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 137.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Delete a meeting:) Tj /F1 10 Tf ( same pattern \227 'Delete today only' vs 'Delete all future occurrences' vs 'Delete) Tj T* (entirely'. After deletion, rebalance triggers so freed time is used by tasks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 106.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (No joining/video link in v1:) Tj /F1 10 Tf ( meetings are purely time blocks for scheduling purposes. No email) Tj T* (invites, no Teams/Zoom links \227 that is a v2 feature.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 95.19685 cm
+Q
+q
+1 0 0 1 62.69291 74.19685 cm
+q
+BT 1 0 0 1 0 3 Tm 11 TL /F2 8 Tf .580392 .639216 .721569 rg (UX & INTERACTION DETAILS) Tj T* ET
+Q
+Q
+ 
+
+
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 751.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Bottom sheet pattern:) Tj /F1 10 Tf ( all modals, confirmations, and option menus slide up from the bottom \227 no) Tj T* (center-screen popups.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 720.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Skeleton loading states:) Tj /F1 10 Tf ( Today view and Week view show skeleton screens while fetching \227 not) Tj T* (spinners.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 689.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Inline validation:) Tj /F1 10 Tf ( errors appear below the relevant field immediately \227 not toast popups that) Tj T* (disappear.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 658.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Non-blocking success toasts:) Tj /F1 10 Tf ( brief \(1.5s\) confirmation at the bottom for task added / task) Tj T* (completed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 627.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Current time indicator:) Tj /F1 10 Tf ( a red line on Today view timeline showing the current time \(like Google) Tj T* (Calendar\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 596.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Empty states with next-action prompts:) Tj /F1 10 Tf ( every empty state tells the user exactly what to do next,) Tj T* (with a shortcut button.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 579.1969 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Reduced motion support:) Tj /F1 10 Tf ( all animations wrapped in prefers-reduced-motion media query.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 548.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Dark mode:) Tj /F1 10 Tf ( fully supported via system preference \(prefers-color-scheme\). All colours defined as) Tj T* (CSS variables.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 531.1969 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Fully responsive, mobile-first:) Tj /F1 10 Tf ( designed for phone use first. Max content width 480px on desktop.) Tj T* ET
+Q
+Q
+ 
+
+
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 757.1969 cm
+q
+.356863 .372549 .937255 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (USER FLOWS \227 HOW SLOTTED HELPS IN REAL LIFE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 750.6969 cm
+q
+.5 w
+1 J
+.815686 .815686 .909804 RG
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 729.6969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (FLOW 1 \227 NEW USER SETS UP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 712.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (1.   Opens app ) Tj /F4 10 Tf 15 TL (\256) Tj /F1 10 Tf 15 TL ( sees Welcome screen with value prop.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 693.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (2.   Signs up with email or Google.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 674.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (3.   Sets availability: toggles days on/off, sets start/end time per day. Defaults to Mon\226Fri 9am\22610pm.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 655.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (4.   Lands on Dump screen. Sees 'X hrs free this week' and a quick-add bar.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 636.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (5.   Adds first task ) Tj /F4 10 Tf 15 TL (\256) Tj /F1 10 Tf 15 TL ( it's scheduled automatically ) Tj /F4 10 Tf 15 TL (\256) Tj /F1 10 Tf 15 TL ( navigates to Today view to see it placed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 624.6969 cm
+Q
+q
+1 0 0 1 62.69291 603.6969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (FLOW 2 \227 DAILY USE \(MORNING DUMP\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 571.6969 cm
+q
+BT 1 0 0 1 22 20 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (1.   User opens app in the morning. Today view already has yesterday's unfinished tasks rebalanced) Tj T* (in.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 537.6969 cm
+q
+BT 1 0 0 1 22 20 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (2.   User thinks of 2 new things to do. Taps quick-add bar, types task name + duration, hits Enter) Tj T* (twice. Done in 15 seconds.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 518.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (3.   Sees updated Today view with new tasks slotted in. Capacity bar shows remaining free time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 499.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (4.   Goes about their day. Marks blocks complete as they finish them.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 465.6969 cm
+q
+BT 1 0 0 1 22 20 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (5.   If they skip something: taps Skip ) Tj /F4 10 Tf 15 TL (\256) Tj /F1 10 Tf 15 TL ( chooses 'Reschedule to later' ) Tj /F4 10 Tf 15 TL (\256) Tj /F1 10 Tf 15 TL ( it disappears and reappears) Tj T* (later in the timeline automatically.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 453.6969 cm
+Q
+q
+1 0 0 1 62.69291 432.6969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (FLOW 3 \227 OVERCOMMITTED USER GETS WARNED) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 415.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (1.   User has 4 hrs free Thursday.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 396.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (2.   Adds a 5hr non-divisible task due Thursday.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 377.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (3.   Immediately sees inline orange warning: 'Adding this task exceeds your available time Thursday.') Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 358.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (4.   Also sees the task flagged 'at risk' in backlog \227 it cannot be scheduled before its deadline.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 339.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (5.   User either marks the task as divisible \(so it can be split across days\) or pushes the deadline.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 327.6969 cm
+Q
+q
+1 0 0 1 62.69291 306.6969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (FLOW 4 \227 HABIT USER TRACKS WITHOUT SHAME) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 289.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (1.   User has a 'Read 20 min' daily habit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 270.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (2.   Misses Monday and Tuesday due to life.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 251.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (3.   Opens Habit Overview: sees 71% over 14 days, green bar \227 two misses didn't tank it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 232.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (4.   No streak reset. No guilt message. Just the data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 213.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (5.   Gets motivated by the heatmap showing mostly green \227 wants to keep it that way.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 201.6969 cm
+Q
+q
+1 0 0 1 62.69291 180.6969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (FLOW 6 \227 USER ADDS RECURRING MEETING) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 163.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (1.   User has a daily standup Mon\226Fri at 10am\22610:30am until end of semester \(Dec 15\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 144.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (2.   Opens app ) Tj /F4 10 Tf 15 TL (\256) Tj /F1 10 Tf 15 TL ( taps '+' ) Tj /F4 10 Tf 15 TL (\256) Tj /F1 10 Tf 15 TL ( switches to 'Meeting' tab in the add screen.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 125.6969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (3.   Enters: title 'Standup', start 10:00, end 10:30, recurrence: Weekdays, end date: Dec 15.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 91.69685 cm
+q
+BT 1 0 0 1 22 20 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (4.   Saves. App generates meeting blocks for every weekday until Dec 15. Today view immediately) Tj T* (shows the standup block in a distinct colour.) Tj T* ET
+Q
+Q
+ 
+
+
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 749.1969 cm
+q
+BT 1 0 0 1 22 20 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (5.   Scheduler re-runs. Any task that was previously placed in the 10:00\22610:30 slot is moved to the) Tj T* (next available opening. Capacity forecast updates.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 715.1969 cm
+q
+BT 1 0 0 1 22 20 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (6.   If the standup gets cancelled one day: user taps the meeting block ) Tj /F4 10 Tf 15 TL (\256) Tj /F1 10 Tf 15 TL ( 'Delete today only'. That) Tj T* (slot opens up and rebalance pulls a task into it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 703.1969 cm
+Q
+q
+1 0 0 1 62.69291 682.1969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (FLOW 5 \227 WEEK GOES SIDEWAYS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 665.1969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (1.   User has a packed Wednesday. A meeting runs 2 hours long.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 646.1969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (2.   Tasks that were scheduled for that time pass without completion.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 612.1969 cm
+q
+BT 1 0 0 1 22 20 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (3.   Background cron detects this. Full rebalance runs. Tasks are re-slotted to Thursday/Friday open) Tj T* (windows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 578.1969 cm
+q
+BT 1 0 0 1 22 20 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (4.   User opens app Thursday morning. Sees the updated plan. 'Rescheduled' badge on moved) Tj T* (blocks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 559.1969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (5.   Taps 'Redo my day' if they want to further adjust. Plan regenerates in under 1 second.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.1969 cm
+Q
+q
+1 0 0 1 62.69291 501.1969 cm
+q
+.356863 .372549 .937255 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (SYSTEM DESIGN PRINCIPLES \227 BUILD TO THESE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 494.6969 cm
+q
+.5 w
+1 J
+.815686 .815686 .909804 RG
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 473.6969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (API DESIGN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 457.6969 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (RESTful, resource-oriented:) Tj /F1 10 Tf ( /tasks, /schedule, /habits, /availability \227 no RPC-style endpoints.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 426.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Single responsibility:) Tj /F1 10 Tf ( each endpoint does one thing. POST /tasks creates a task. The scheduler) Tj T* (runs as a side effect internally, not a separate manual API call the frontend has to make.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 381.6969 cm
+q
+BT 1 0 0 1 14 32 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Optimistic UI:) Tj /F1 10 Tf ( frontend updates the local state immediately on user action, then confirms with the) Tj T* (server. If the server fails, roll back with an error message. Never make the user wait for a spinner) Tj T* (before seeing their task appear.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 350.6969 cm
+q
+BT 1 0 0 1 14 18 Tm -0.066484 Tw 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Idempotent scheduler:) Tj /F1 10 Tf ( running the scheduler twice on the same data produces the same result. No) Tj T* 0 Tw (duplicate blocks. Use upsert, not insert.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 319.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (JWT auth only:) Tj /F1 10 Tf ( never accept user_id as a body or query parameter. Always extract it from the) Tj T* (validated Supabase JWT in the Authorization header.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 288.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (RLS on every Supabase table:) Tj /F1 10 Tf ( users can only read/write their own rows. This is enforced at the) Tj T* (database level, not just the API level.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 277.6969 cm
+Q
+q
+1 0 0 1 62.69291 256.6969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (SCHEDULER DESIGN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 226.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Stateless per run:) Tj /F1 10 Tf ( the scheduler takes inputs \(tasks, availability, current time\) and returns) Tj T* (scheduled blocks. It does not store intermediate state or depend on the previous run's output.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 195.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Deterministic:) Tj /F1 10 Tf ( same inputs always produce the same output. This makes it testable and) Tj T* (debuggable.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 164.6969 cm
+q
+BT 1 0 0 1 14 18 Tm -0.000013 Tw 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Separation from API:) Tj /F1 10 Tf ( scheduler.py is a pure Python module with no FastAPI imports. The API layer) Tj T* 0 Tw (calls it; the scheduler doesn't know about HTTP.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 119.6969 cm
+q
+BT 1 0 0 1 14 32 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Graceful degradation:) Tj /F1 10 Tf ( if a task cannot be scheduled, the app tells the user clearly \(at-risk flag\) and) Tj T* -0.127874 Tw (continues scheduling everything else. Never crash or return an empty schedule because one task didn't) Tj T* 0 Tw (fit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 88.69685 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Write unit tests for the scheduler before building the API.) Tj /F1 10 Tf ( Test: priority decay formula, slot-fitting) Tj T* (with exact minute boundaries, chunk splitting, at-risk detection, rebalancing after a skip.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 77.69685 cm
+Q
+ 
+
+
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 768.1969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (FRONTEND ARCHITECTURE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 738.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Component hierarchy:) Tj /F1 10 Tf ( App ) Tj /F4 10 Tf 14 TL (\256) Tj /F1 10 Tf 14 TL ( Layout \(BottomNav\) ) Tj /F4 10 Tf 14 TL (\256) Tj /F1 10 Tf 14 TL ( Screen \(Today / Week / Dump / Backlog /) Tj T* (Habits\). Screens are independent route-level components.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 707.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Global state:) Tj /F1 10 Tf ( use React Context or Zustand for: current user, schedule data, capacity stats, loading) Tj T* (states. Do not prop-drill these.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 676.1969 cm
+q
+BT 1 0 0 1 14 18 Tm -0.031124 Tw 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Data fetching:) Tj /F1 10 Tf ( use React Query \(TanStack Query\) for all API calls. It handles caching, refetching on) Tj T* 0 Tw (focus, and loading/error states cleanly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 645.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (After any mutation \(complete/skip/add/delete\):) Tj /F1 10 Tf ( invalidate the /schedule query so Today and) Tj T* (Week views refetch automatically.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 614.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (CSS variables for theming:) Tj /F1 10 Tf ( all colours defined as --color-* variables on :root. Dark mode overrides) Tj T* (in @media \(prefers-color-scheme: dark\). Never hardcode hex values in component files.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 583.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (No inline styles:) Tj /F1 10 Tf ( all styling via Tailwind utility classes. For complex one-off styles, use a CSS) Tj T* (module.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 572.1969 cm
+Q
+q
+1 0 0 1 62.69291 551.1969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (ERROR HANDLING \227 NON-NEGOTIABLE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 535.1969 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Every API call has a try/catch.) Tj /F1 10 Tf ( No unhandled promise rejections.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 518.1969 cm
+q
+BT 1 0 0 1 14 4 Tm -0.085276 Tw 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Network errors:) Tj /F1 10 Tf ( show an inline 'Something went wrong \227 tap to retry' message, not a blank screen.) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 62.69291 487.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Validation errors:) Tj /F1 10 Tf ( returned from FastAPI as 422 with field-level detail. Frontend maps these to) Tj T* (inline field errors, not a generic toast.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 456.1969 cm
+q
+BT 1 0 0 1 14 18 Tm -0.120015 Tw 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Scheduler failures:) Tj /F1 10 Tf ( if the scheduler errors \(e.g. corrupted availability data\), return the user's existing) Tj T* 0 Tw (schedule unchanged and log the error. Never return an empty schedule.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 425.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Auth expiry:) Tj /F1 10 Tf ( if JWT expires mid-session, redirect to login with a 'Session expired \227 please log in) Tj T* (again' message. Do not silently fail.) Tj T* ET
+Q
+Q
+ 
+
+
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 757.1969 cm
+q
+.356863 .372549 .937255 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (UI / DESIGN SYSTEM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 750.6969 cm
+q
+.5 w
+1 J
+.815686 .815686 .909804 RG
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 729.6969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (DESIGN PHILOSOPHY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Reduce cognitive load above all else.) Tj /F1 10 Tf ( This app is for people who get overwhelmed. Every screen) Tj T* (must have one primary action. Remove everything that isn't essential.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 668.6969 cm
+q
+BT 1 0 0 1 14 18 Tm -0.002791 Tw 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Calm confidence:) Tj /F1 10 Tf ( the app should feel like a capable assistant, not a nagging productivity coach. No) Tj T* 0 Tw (guilt mechanics, no congratulation confetti, no gamification.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 637.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Informative, not decorative:) Tj /F1 10 Tf ( every visual element \(colour, size, weight\) carries meaning. Priority) Tj T* (colours = urgency. Bar width = completion %. Nothing is decorative noise.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 606.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Mobile-first, always:) Tj /F1 10 Tf ( every design decision is made for a 390px screen first. Desktop is a wider) Tj T* (version of mobile, not a separate layout.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 595.6969 cm
+Q
+q
+1 0 0 1 62.69291 574.6969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (COLOUR PALETTE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.86614 227.6969 cm
+q
+.356863 .372549 .937255 rg
+n 0 345 453.5433 -23 re f*
+.956863 .956863 1 rg
+n 0 322 453.5433 -322 re f*
+1 1 1 rg
+n 0 322 453.5433 -23 re f*
+.956863 .956863 1 rg
+n 0 299 453.5433 -23 re f*
+1 1 1 rg
+n 0 276 453.5433 -23 re f*
+.956863 .956863 1 rg
+n 0 253 453.5433 -23 re f*
+1 1 1 rg
+n 0 230 453.5433 -23 re f*
+.956863 .956863 1 rg
+n 0 207 453.5433 -23 re f*
+1 1 1 rg
+n 0 184 453.5433 -23 re f*
+.956863 .956863 1 rg
+n 0 161 453.5433 -23 re f*
+1 1 1 rg
+n 0 138 453.5433 -23 re f*
+.956863 .956863 1 rg
+n 0 115 453.5433 -23 re f*
+1 1 1 rg
+n 0 92 453.5433 -23 re f*
+.956863 .956863 1 rg
+n 0 69 453.5433 -23 re f*
+1 1 1 rg
+n 0 46 453.5433 -23 re f*
+.956863 .956863 1 rg
+n 0 23 453.5433 -23 re f*
+1 1 1 rg
+BT /F2 9 Tf 13 TL ET
+BT 1 0 0 1 8 331 Tm (Token) Tj T* ET
+BT 1 0 0 1 135.5591 331 Tm (Hex) Tj T* ET
+BT 1 0 0 1 234.7717 331 Tm (Usage) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 13 TL ET
+BT 1 0 0 1 8 308 Tm (--color-bg) Tj T* ET
+BT 1 0 0 1 135.5591 308 Tm (#F9F9FF) Tj T* ET
+BT 1 0 0 1 234.7717 308 Tm (Page background) Tj T* ET
+BT 1 0 0 1 8 285 Tm (--color-surface) Tj T* ET
+BT 1 0 0 1 135.5591 285 Tm (#FFFFFF) Tj T* ET
+BT 1 0 0 1 234.7717 285 Tm (Cards, bottom sheets, modals) Tj T* ET
+BT 1 0 0 1 8 262 Tm (--color-accent) Tj T* ET
+BT 1 0 0 1 135.5591 262 Tm (#5B5FEF) Tj T* ET
+BT 1 0 0 1 234.7717 262 Tm (Primary CTAs, active nav, links) Tj T* ET
+BT 1 0 0 1 8 239 Tm (--color-accent-2) Tj T* ET
+BT 1 0 0 1 135.5591 239 Tm (#7C3AED) Tj T* ET
+BT 1 0 0 1 234.7717 239 Tm (Secondary accent, habit bars) Tj T* ET
+BT 1 0 0 1 8 216 Tm (--color-text-1) Tj T* ET
+BT 1 0 0 1 135.5591 216 Tm (#1A1A2E) Tj T* ET
+BT 1 0 0 1 234.7717 216 Tm (Headings, primary text) Tj T* ET
+BT 1 0 0 1 8 193 Tm (--color-text-2) Tj T* ET
+BT 1 0 0 1 135.5591 193 Tm (#4A4A6A) Tj T* ET
+BT 1 0 0 1 234.7717 193 Tm (Body, descriptions) Tj T* ET
+BT 1 0 0 1 8 170 Tm (--color-text-3) Tj T* ET
+BT 1 0 0 1 135.5591 170 Tm (#94A3B8) Tj T* ET
+BT 1 0 0 1 234.7717 170 Tm (Labels, timestamps, placeholders) Tj T* ET
+BT 1 0 0 1 8 147 Tm (--color-high) Tj T* ET
+BT 1 0 0 1 135.5591 147 Tm (#EF4444) Tj T* ET
+BT 1 0 0 1 234.7717 147 Tm (High priority, at-risk, errors) Tj T* ET
+BT 1 0 0 1 8 124 Tm (--color-medium) Tj T* ET
+BT 1 0 0 1 135.5591 124 Tm (#F59E0B) Tj T* ET
+BT 1 0 0 1 234.7717 124 Tm (Medium priority, warnings) Tj T* ET
+BT 1 0 0 1 8 101 Tm (--color-low) Tj T* ET
+BT 1 0 0 1 135.5591 101 Tm (#94A3B8) Tj T* ET
+BT 1 0 0 1 234.7717 101 Tm (Low priority) Tj T* ET
+BT 1 0 0 1 8 78 Tm (--color-success) Tj T* ET
+BT 1 0 0 1 135.5591 78 Tm (#16A34A) Tj T* ET
+BT 1 0 0 1 234.7717 78 Tm (Completed tasks, habit bars > 70%) Tj T* ET
+BT 1 0 0 1 8 55 Tm (--color-border) Tj T* ET
+BT 1 0 0 1 135.5591 55 Tm (#E2E2F0) Tj T* ET
+BT 1 0 0 1 234.7717 55 Tm (Card borders, dividers) Tj T* ET
+BT 1 0 0 1 8 32 Tm (--color-meeting) Tj T* ET
+BT 1 0 0 1 135.5591 32 Tm (#EDE9FE) Tj T* ET
+BT 1 0 0 1 234.7717 32 Tm (Meeting block background \(light purple\)) Tj T* ET
+BT 1 0 0 1 8 9 Tm (--color-meeting-bd) Tj T* ET
+BT 1 0 0 1 135.5591 9 Tm (#7C3AED) Tj T* ET
+BT 1 0 0 1 234.7717 9 Tm (Meeting block border / icon colour) Tj T* ET
+q
+1 J
+1 j
+.815686 .815686 .909804 RG
+.4 w
+n 0 345 m 453.5433 345 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 345 l S
+n 453.5433 0 m 453.5433 345 l S
+n 0 322 m 453.5433 322 l S
+n 0 299 m 453.5433 299 l S
+n 0 276 m 453.5433 276 l S
+n 0 253 m 453.5433 253 l S
+n 0 230 m 453.5433 230 l S
+n 0 207 m 453.5433 207 l S
+n 0 184 m 453.5433 184 l S
+n 0 161 m 453.5433 161 l S
+n 0 138 m 453.5433 138 l S
+n 0 115 m 453.5433 115 l S
+n 0 92 m 453.5433 92 l S
+n 0 69 m 453.5433 69 l S
+n 0 46 m 453.5433 46 l S
+n 0 23 m 453.5433 23 l S
+n 127.5591 0 m 127.5591 345 l S
+n 226.7717 0 m 226.7717 345 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 217.6969 cm
+Q
+q
+1 0 0 1 62.69291 196.6969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (TYPOGRAPHY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 180.6969 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Font family:) Tj /F1 10 Tf ( Inter \(Google Fonts\). Load weights 400, 500, 600, 700 only.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 149.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Scale:) Tj /F1 10 Tf ( 28px display title / 20px section heading / 16px subsection / 14px body / 12px label / 10px) Tj T* (caption.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 132.6969 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Line heights:) Tj /F1 10 Tf ( 1.4\327 font size minimum. Never let text feel cramped.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 101.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Weight usage:) Tj /F1 10 Tf ( 700 for screen titles only. 600 for card headings. 500 for body emphasis. 400 for all) Tj T* (regular body text and labels.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 90.69685 cm
+Q
+q
+1 0 0 1 62.69291 69.69685 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (SPACING SYSTEM \(4PX BASE UNIT\)) Tj T* ET
+Q
+Q
+ 
+
+
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 70.86614 618.1969 cm
+q
+.486275 .227451 .929412 rg
+n 0 161 453.5433 -23 re f*
+1 1 1 rg
+n 0 138 453.5433 -23 re f*
+.956863 .956863 1 rg
+n 0 115 453.5433 -23 re f*
+1 1 1 rg
+n 0 92 453.5433 -23 re f*
+.956863 .956863 1 rg
+n 0 69 453.5433 -23 re f*
+1 1 1 rg
+n 0 46 453.5433 -23 re f*
+.956863 .956863 1 rg
+n 0 23 453.5433 -23 re f*
+1 1 1 rg
+BT /F2 9 Tf 13 TL ET
+BT 1 0 0 1 8 147 Tm (Token) Tj T* ET
+BT 1 0 0 1 107.2126 147 Tm (Value) Tj T* ET
+BT 1 0 0 1 178.0787 147 Tm (Usage) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 13 TL ET
+BT 1 0 0 1 8 124 Tm (--space-1) Tj T* ET
+BT 1 0 0 1 107.2126 124 Tm (4px) Tj T* ET
+BT 1 0 0 1 178.0787 124 Tm (Icon padding, tight gaps) Tj T* ET
+BT 1 0 0 1 8 101 Tm (--space-2) Tj T* ET
+BT 1 0 0 1 107.2126 101 Tm (8px) Tj T* ET
+BT 1 0 0 1 178.0787 101 Tm (Between label and input) Tj T* ET
+BT 1 0 0 1 8 78 Tm (--space-3) Tj T* ET
+BT 1 0 0 1 107.2126 78 Tm (12px) Tj T* ET
+BT 1 0 0 1 178.0787 78 Tm (Card inner padding \(tight\)) Tj T* ET
+BT 1 0 0 1 8 55 Tm (--space-4) Tj T* ET
+BT 1 0 0 1 107.2126 55 Tm (16px) Tj T* ET
+BT 1 0 0 1 178.0787 55 Tm (Default card padding, section gaps) Tj T* ET
+BT 1 0 0 1 8 32 Tm (--space-6) Tj T* ET
+BT 1 0 0 1 107.2126 32 Tm (24px) Tj T* ET
+BT 1 0 0 1 178.0787 32 Tm (Between sections on a screen) Tj T* ET
+BT 1 0 0 1 8 9 Tm (--space-8) Tj T* ET
+BT 1 0 0 1 107.2126 9 Tm (32px) Tj T* ET
+BT 1 0 0 1 178.0787 9 Tm (Between major layout blocks) Tj T* ET
+q
+1 J
+1 j
+.815686 .815686 .909804 RG
+.4 w
+n 0 161 m 453.5433 161 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 161 l S
+n 453.5433 0 m 453.5433 161 l S
+n 0 138 m 453.5433 138 l S
+n 0 115 m 453.5433 115 l S
+n 0 92 m 453.5433 92 l S
+n 0 69 m 453.5433 69 l S
+n 0 46 m 453.5433 46 l S
+n 0 23 m 453.5433 23 l S
+n 99.2126 0 m 99.2126 161 l S
+n 170.0787 0 m 170.0787 161 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 608.1969 cm
+Q
+q
+1 0 0 1 62.69291 587.1969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (COMPONENT SPECS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 557.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Cards:) Tj /F1 10 Tf ( white background, 1px border \(#E2E2F0\), border-radius 12px, box-shadow: 0 1px 4px) Tj T* (rgba\(0,0,0,0.06\). No heavy drop shadows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 526.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Buttons \227 Primary:) Tj /F1 10 Tf ( background #5B5FEF, white text, 600 weight, 12px border-radius, 44px min) Tj T* (height \(touch target\), full width on mobile.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 495.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Buttons \227 Secondary:) Tj /F1 10 Tf ( white background, #5B5FEF border 1.5px, #5B5FEF text. Same sizing as) Tj T* (primary.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 464.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Buttons \227 Destructive:) Tj /F1 10 Tf ( white background, #EF4444 border 1.5px, #EF4444 text. Used only in) Tj T* (confirmation modals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 433.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Inputs:) Tj /F1 10 Tf ( border 1.5px #E2E2F0, border-radius 8px, 44px height, 16px padding. On focus: border) Tj T* (becomes #5B5FEF. On error: border becomes #EF4444, error text below in red.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 402.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Bottom navigation bar:) Tj /F1 10 Tf ( white, 1px top border #E2E2F0, 80px height including safe area. 5 items:) Tj T* (Today / Week / + \(Add\) / Backlog / Habits. Add button is 52px circle, #5B5FEF, elevated with shadow.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 371.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Bottom sheets:) Tj /F1 10 Tf ( white, border-radius 16px top only, drag handle \(32\3274px, #D0D0E0, centered at) Tj T* (top\), max-height 85vh, scrollable inside.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 340.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Priority dots:) Tj /F1 10 Tf ( 8px filled circles. Red \(#EF4444\) = High. Amber \(#F59E0B\) = Medium. Slate) Tj T* (\(#94A3B8\) = Low.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 309.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Timeline blocks \(Today view\):) Tj /F1 10 Tf ( left border 3px in priority colour, white card body, title in) Tj T* (--color-text-1, time range in --color-text-3. Height proportional to duration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 278.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Skeleton loaders:) Tj /F1 10 Tf ( #E2E2F0 background, animated shimmer \(background gradient animating left to) Tj T* (right\), border-radius matches the component it's replacing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 219.1969 cm
+q
+BT 1 0 0 1 14 46 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Meeting blocks:) Tj /F1 10 Tf ( background #EDE9FE \(light purple\), left border 3px #7C3AED, a small calendar) Tj T* (icon \(16px\) left of the title, title in --color-text-1, time range in #7C3AED. No priority dot. Labelled) Tj T* ('Meeting' in a small pill top-right of the block. Not draggable \227 visually cues this by removing the drag) Tj T* (handle that task blocks have.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 208.1969 cm
+Q
+q
+1 0 0 1 62.69291 187.1969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (ANIMATION RULES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 157.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Block slide-in:) Tj /F1 10 Tf ( new scheduled blocks animate in with transform: translateY\(8px\) ) Tj /F4 10 Tf 14 TL (\256) Tj /F1 10 Tf 14 TL ( translateY\(0\) +) Tj T* (opacity 0) Tj /F4 10 Tf 14 TL (\256) Tj /F1 10 Tf 14 TL (1. Duration: 200ms, ease-out.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 126.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Bottom sheet open:) Tj /F1 10 Tf ( transform: translateY\(100%\) ) Tj /F4 10 Tf 14 TL (\256) Tj /F1 10 Tf 14 TL ( translateY\(0\). Duration: 280ms,) Tj T* (cubic-bezier\(0.32, 0.72, 0, 1\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 95.19685 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Rebalance cascade:) Tj /F1 10 Tf ( when blocks shift positions, animate each one moving with 150ms delay) Tj T* (staggered by position. Keep it subtle.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 64.19685 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (prefers-reduced-motion:) Tj /F1 10 Tf ( wrap every animation in @media \(prefers-reduced-motion:) Tj T* (no-preference\). If reduced motion is preferred, skip all animations.) Tj T* ET
+Q
+Q
+ 
+
+
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 765.1969 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Nothing decorative.) Tj /F1 10 Tf ( No confetti, no celebration animations, no pulse effects on empty states.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 754.1969 cm
+Q
+q
+1 0 0 1 62.69291 733.1969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (SCREEN-BY-SCREEN UI SPEC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 703.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Onboarding:) Tj /F1 10 Tf ( full-screen white backgrounds. Centered content max-width 320px. Progress dots at) Tj T* (the top \(3 steps\). Large primary button at the bottom.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 630.1969 cm
+q
+BT 1 0 0 1 14 60 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Dump screen:) Tj /F1 10 Tf ( quick-add bar is sticky at the top with two tabs: ) Tj /F2 10 Tf ('Task') Tj /F1 10 Tf ( \(default\) and ) Tj /F2 10 Tf ('Meeting') Tj /F1 10 Tf (.) Tj T* -0.124132 Tw (Switching to Meeting tab changes the form fields \227 no duration field, instead: date, start time, end time,) Tj T* 0 Tw (recurrence \(one-time / daily / weekdays / custom days\), and end date. Live capacity pill \('4h 30m free'\)) Tj T* (right-aligned, already accounting for existing meetings. Below the bar: recently added tasks and) Tj T* (upcoming meetings listed together in chronological order.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 557.1969 cm
+q
+BT 1 0 0 1 14 60 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Today view:) Tj /F1 10 Tf ( date header at top. Current-time red line across the timeline. Two types of blocks on) Tj T* (the timeline: ) Tj /F2 10 Tf (Task blocks) Tj /F1 10 Tf ( \(white card, left border in priority colour\) and ) Tj /F2 10 Tf (Meeting blocks) Tj /F1 10 Tf  T* (\(slate/purple-tinted background, calendar icon, title + time, not draggable\). Meeting blocks are visually) Tj T* (distinct and clearly non-movable. Tap a meeting block: shows options 'Cancel today only' / 'Delete) Tj T* (meeting' / 'Edit'. 'At risk' section below the timeline. 'Redo my day' icon button top-right.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 498.1969 cm
+q
+BT 1 0 0 1 14 46 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Week view:) Tj /F1 10 Tf ( 7-column horizontal scroll grid. Column headers = day name + date. Today column has) Tj T* (accent-coloured header. Meeting blocks appear in each day column as slate-tinted chips \227 visually) Tj T* (different from task chips. Capacity bar at very top shows true free time \(already subtracting meetings\).) Tj T* (Hovering/tapping a meeting chip shows its title and time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 467.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Backlog:) Tj /F1 10 Tf ( filter bar \(tabs: All / Habits / One-off / At Risk\) sticky below the screen title. Task cards with) Tj T* (swipe actions. At-risk cards have a red left border.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 422.1969 cm
+q
+BT 1 0 0 1 14 32 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Habit Overview:) Tj /F1 10 Tf ( each habit is a card with name, 14-day bar, 30-day bar, and a tap-to-expand) Tj T* (heatmap. No numbers shown on the bar itself \227 the colour tells the story. The percentage appears as) Tj T* (text next to the bar.) Tj T* ET
+Q
+Q
+ 
+
+
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 757.1969 cm
+q
+.356863 .372549 .937255 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (DATABASE SCHEMA \(Supabase + Postgres\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 750.6969 cm
+q
+.5 w
+1 J
+.815686 .815686 .909804 RG
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 729.6969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (TABLES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 713.6969 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (user_availability:) Tj /F1 10 Tf ( id, user_id, day_of_week \(0\2266\), start_time, end_time) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.6969 cm
+q
+BT 1 0 0 1 14 46 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (tasks:) Tj /F1 10 Tf ( id, user_id, title, duration_minutes, deadline \(nullable\), priority \(high|medium|low\), recurrence) Tj T* (\(none|daily|weekdays|custom_days|n_times_per_week\), recurrence_days \(int[]\), recurrence_n \(int\),) Tj T* (divisible \(bool\), min_block_minutes \(int\), status \(pending|scheduled|completed|skipped|cancelled\),) Tj T* (is_habit \(bool\), created_at, updated_at) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 609.6969 cm
+q
+BT 1 0 0 1 14 32 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (scheduled_blocks:) Tj /F1 10 Tf ( id, task_id, user_id, date, start_time, end_time, is_subpart \(bool\), status) Tj T* (\(upcoming|completed|skipped|moved\), moved_from \(uuid nullable \227 points to original block if) Tj T* (rebalanced\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 578.6969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (habit_logs:) Tj /F1 10 Tf ( id, task_id, user_id, date, completed \(bool\) \227 one row per habit per day. NEVER store) Tj T* (a streak field.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 519.6969 cm
+q
+BT 1 0 0 1 14 46 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (meetings:) Tj /F1 10 Tf ( id, user_id, title \(text, required\), start_time \(time, required\), end_time \(time, required\),) Tj T* (date \(date, nullable \227 set only for one-time meetings\), recurrence \(enum: none | daily | weekdays |) Tj T* (custom_days\), recurrence_days \(int[], nullable\), end_date \(date, nullable \227 recurring meetings stop) Tj T* (after this date\), created_at, updated_at.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 474.6969 cm
+q
+BT 1 0 0 1 14 32 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (meeting_blocks:) Tj /F1 10 Tf ( id, meeting_id, user_id, date, start_time, end_time, status \(active | cancelled\).) Tj T* (One row per occurrence. Generated at save time for recurring meetings up to end_date \(or 90 days out) Tj T* (if no end_date\). Regenerate when the meeting is edited.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 443.6969 cm
+q
+.937255 .266667 .266667 rg
+BT 1 0 0 1 0 18 Tm /F2 10 Tf 14 TL (RLS REQUIRED: enable Row Level Security on every table. Policy: user_id = auth.uid\(\). Enforce at) Tj T* (DB level, not just API level.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 433.6969 cm
+Q
+q
+1 0 0 1 62.69291 391.6969 cm
+q
+.356863 .372549 .937255 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (SCHEDULING ALGORITHM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 385.1969 cm
+q
+.5 w
+1 J
+.815686 .815686 .909804 RG
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 364.1969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (EXECUTION STEPS \(RUN ON EVERY TRIGGER\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 347.1969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (1.   Fetch all pending/scheduled tasks for the user from Supabase.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 328.1969 cm
+q
+BT 1 0 0 1 22 5 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (2.   Fetch user availability windows for the target date range \(today + 7 days\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 294.1969 cm
+q
+BT 1 0 0 1 22 20 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (3.   For each task: compute effective_priority_score. Base: High=100, Medium=60, Low=30. Deadline) Tj T* (boost: <) Tj (24h +80 / <) Tj (48h +50 / <) Tj (72h +30 / <) Tj (168h +10. No deadline = base score only.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 260.1969 cm
+q
+BT 1 0 0 1 22 20 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (4.   Sort tasks: descending by effective_priority_score. Tiebreaker: soonest deadline. Habits on their) Tj T* (designated days get priority over one-off tasks in the same window.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 211.1969 cm
+q
+BT 1 0 0 1 22 35 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (5.   Build a per-day free-slot map from availability windows minus already-placed scheduled_blocks) Tj T* /F2 10 Tf (AND minus all meeting_blocks for that day.) Tj /F1 10 Tf ( Meeting blocks are hard constraints \227 treated) Tj T* (identically to unavailable time. A task is never placed in a meeting slot under any circumstance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 177.1969 cm
+q
+BT 1 0 0 1 22 20 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (6.   For each task \(sorted\): find the earliest free slot that fits the full duration before the deadline.) Tj T* (Place it. Remove that slot from the free-slot map.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 143.1969 cm
+q
+BT 1 0 0 1 22 20 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (7.   If divisible and no single slot fits: split into chunks ) Tj /F4 10 Tf 15 TL (\263) Tj /F1 10 Tf 15 TL ( min_block_minutes. Place each chunk) Tj T* (greedily.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 109.1969 cm
+q
+BT 1 0 0 1 22 20 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (8.   If no valid placement exists before deadline: mark task 'at_risk'. Do not crash. Continue with) Tj T* (remaining tasks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 75.19685 cm
+q
+BT 1 0 0 1 22 20 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (9.   Upsert all resulting scheduled_blocks \(delete old pending blocks for the user, insert new ones\).) Tj T* (Never duplicate.) Tj T* ET
+Q
+Q
+ 
+
+
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 734.1969 cm
+q
+BT 1 0 0 1 22 35 Tm 15 TL /F1 10 Tf .101961 .101961 .180392 rg (10.   Return: list of scheduled_blocks for the week + meeting_blocks for the week +) Tj T* ({total_available_minutes, total_meeting_minutes, total_scheduled_minutes, free_minutes} capacity) Tj T* (stats. free_minutes = total_available - total_meeting - total_scheduled.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 702.1969 cm
+q
+.937255 .266667 .266667 rg
+BT 1 0 0 1 0 18 Tm /F2 10 Tf 14 TL (Write and unit-test scheduler.py BEFORE connecting it to the API. Test with mock data. It must be) Tj T* (deterministic and stateless.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 692.1969 cm
+Q
+q
+1 0 0 1 62.69291 650.1969 cm
+q
+.356863 .372549 .937255 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (API ENDPOINTS \(FastAPI\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 643.6969 cm
+q
+.5 w
+1 J
+.815686 .815686 .909804 RG
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 622.6969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (ALL ENDPOINTS REQUIRE AUTHORIZATION: BEARER) Tj T* ET
+Q
+Q
+q
+1 0 0 1 77.95276 240.6969 cm
+q
+.101961 .101961 .180392 rg
+n 0 380 439.3701 -19 re f*
+1 1 1 rg
+n 0 361 439.3701 -19 re f*
+.956863 .956863 1 rg
+n 0 342 439.3701 -19 re f*
+1 1 1 rg
+n 0 323 439.3701 -19 re f*
+.956863 .956863 1 rg
+n 0 304 439.3701 -19 re f*
+1 1 1 rg
+n 0 285 439.3701 -19 re f*
+.956863 .956863 1 rg
+n 0 266 439.3701 -19 re f*
+1 1 1 rg
+n 0 247 439.3701 -19 re f*
+.956863 .956863 1 rg
+n 0 228 439.3701 -19 re f*
+1 1 1 rg
+n 0 209 439.3701 -19 re f*
+.956863 .956863 1 rg
+n 0 190 439.3701 -19 re f*
+1 1 1 rg
+n 0 171 439.3701 -19 re f*
+.956863 .956863 1 rg
+n 0 152 439.3701 -19 re f*
+1 1 1 rg
+n 0 133 439.3701 -19 re f*
+.956863 .956863 1 rg
+n 0 114 439.3701 -19 re f*
+1 1 1 rg
+n 0 95 439.3701 -19 re f*
+.956863 .956863 1 rg
+n 0 76 439.3701 -19 re f*
+1 1 1 rg
+n 0 57 439.3701 -19 re f*
+.956863 .956863 1 rg
+n 0 38 439.3701 -19 re f*
+1 1 1 rg
+n 0 19 439.3701 -19 re f*
+1 1 1 rg
+BT /F2 8 Tf 11 TL ET
+BT 1 0 0 1 6 368 Tm (Method) Tj T* ET
+BT 1 0 0 1 57.02362 368 Tm (Path) Tj T* ET
+BT 1 0 0 1 198.7559 368 Tm (Action) Tj T* ET
+BT 1 0 0 1 354.6614 368 Tm (Side Effect) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 11 TL ET
+BT 1 0 0 1 6 349 Tm (GET) Tj T* ET
+BT 1 0 0 1 57.02362 349 Tm (/availability) Tj T* ET
+BT 1 0 0 1 198.7559 349 Tm (Return user's windows) Tj T* ET
+BT 1 0 0 1 354.6614 349 Tm (\227) Tj T* ET
+BT 1 0 0 1 6 330 Tm (POST) Tj T* ET
+BT 1 0 0 1 57.02362 330 Tm (/availability) Tj T* ET
+BT 1 0 0 1 198.7559 330 Tm (Set window for a day) Tj T* ET
+BT 1 0 0 1 354.6614 330 Tm (\227) Tj T* ET
+BT 1 0 0 1 6 311 Tm (DELETE) Tj T* ET
+BT 1 0 0 1 57.02362 311 Tm (/availability/{id}) Tj T* ET
+BT 1 0 0 1 198.7559 311 Tm (Remove window) Tj T* ET
+BT 1 0 0 1 354.6614 311 Tm (Rebalance) Tj T* ET
+BT 1 0 0 1 6 292 Tm (GET) Tj T* ET
+BT 1 0 0 1 57.02362 292 Tm (/tasks) Tj T* ET
+BT 1 0 0 1 198.7559 292 Tm (List tasks \(filterable\)) Tj T* ET
+BT 1 0 0 1 354.6614 292 Tm (\227) Tj T* ET
+BT 1 0 0 1 6 273 Tm (POST) Tj T* ET
+BT 1 0 0 1 57.02362 273 Tm (/tasks) Tj T* ET
+BT 1 0 0 1 198.7559 273 Tm (Create task) Tj T* ET
+BT 1 0 0 1 354.6614 273 Tm (Rebalance) Tj T* ET
+BT 1 0 0 1 6 254 Tm (PATCH) Tj T* ET
+BT 1 0 0 1 57.02362 254 Tm (/tasks/{id}) Tj T* ET
+BT 1 0 0 1 198.7559 254 Tm (Edit task) Tj T* ET
+BT 1 0 0 1 354.6614 254 Tm (Rebalance) Tj T* ET
+BT 1 0 0 1 6 235 Tm (DELETE) Tj T* ET
+BT 1 0 0 1 57.02362 235 Tm (/tasks/{id}) Tj T* ET
+BT 1 0 0 1 198.7559 235 Tm (Delete \(with scope param: today|future|all\)) Tj T* ET
+BT 1 0 0 1 354.6614 235 Tm (Rebalance) Tj T* ET
+BT 1 0 0 1 6 216 Tm (PATCH) Tj T* ET
+BT 1 0 0 1 57.02362 216 Tm (/tasks/{id}/complete) Tj T* ET
+BT 1 0 0 1 198.7559 216 Tm (Complete a block for date) Tj T* ET
+BT 1 0 0 1 354.6614 216 Tm (Rebalance) Tj T* ET
+BT 1 0 0 1 6 197 Tm (PATCH) Tj T* ET
+BT 1 0 0 1 57.02362 197 Tm (/tasks/{id}/skip) Tj T* ET
+BT 1 0 0 1 198.7559 197 Tm (Skip a block \(today|reschedule\)) Tj T* ET
+BT 1 0 0 1 354.6614 197 Tm (Rebalance) Tj T* ET
+BT 1 0 0 1 6 178 Tm (GET) Tj T* ET
+BT 1 0 0 1 57.02362 178 Tm (/schedule/today) Tj T* ET
+BT 1 0 0 1 198.7559 178 Tm (Today's blocks + capacity) Tj T* ET
+BT 1 0 0 1 354.6614 178 Tm (\227) Tj T* ET
+BT 1 0 0 1 6 159 Tm (GET) Tj T* ET
+BT 1 0 0 1 57.02362 159 Tm (/schedule/week) Tj T* ET
+BT 1 0 0 1 198.7559 159 Tm (Week blocks + capacity) Tj T* ET
+BT 1 0 0 1 354.6614 159 Tm (\227) Tj T* ET
+BT 1 0 0 1 6 140 Tm (POST) Tj T* ET
+BT 1 0 0 1 57.02362 140 Tm (/schedule/rerun) Tj T* ET
+BT 1 0 0 1 198.7559 140 Tm (Manual full rebalance) Tj T* ET
+BT 1 0 0 1 354.6614 140 Tm (Rebalance) Tj T* ET
+BT 1 0 0 1 6 121 Tm (GET) Tj T* ET
+BT 1 0 0 1 57.02362 121 Tm (/habits) Tj T* ET
+BT 1 0 0 1 198.7559 121 Tm (Habits + rolling % stats) Tj T* ET
+BT 1 0 0 1 354.6614 121 Tm (\227) Tj T* ET
+BT 1 0 0 1 6 102 Tm (POST) Tj T* ET
+BT 1 0 0 1 57.02362 102 Tm (/habits/{id}/log) Tj T* ET
+BT 1 0 0 1 198.7559 102 Tm (Log completion/miss for today) Tj T* ET
+BT 1 0 0 1 354.6614 102 Tm (\227) Tj T* ET
+BT 1 0 0 1 6 83 Tm (GET) Tj T* ET
+BT 1 0 0 1 57.02362 83 Tm (/meetings) Tj T* ET
+BT 1 0 0 1 198.7559 83 Tm (List all meetings + blocks) Tj T* ET
+BT 1 0 0 1 354.6614 83 Tm (\227) Tj T* ET
+BT 1 0 0 1 6 64 Tm (POST) Tj T* ET
+BT 1 0 0 1 57.02362 64 Tm (/meetings) Tj T* ET
+BT 1 0 0 1 198.7559 64 Tm (Create meeting \(one-time or recurring\)) Tj T* ET
+BT 1 0 0 1 354.6614 64 Tm (Rebalance) Tj T* ET
+BT 1 0 0 1 6 45 Tm (PATCH) Tj T* ET
+BT 1 0 0 1 57.02362 45 Tm (/meetings/{id}) Tj T* ET
+BT 1 0 0 1 198.7559 45 Tm (Edit meeting \(scope: today|future\)) Tj T* ET
+BT 1 0 0 1 354.6614 45 Tm (Rebalance) Tj T* ET
+BT 1 0 0 1 6 26 Tm (DELETE) Tj T* ET
+BT 1 0 0 1 57.02362 26 Tm (/meetings/{id}) Tj T* ET
+BT 1 0 0 1 198.7559 26 Tm (Delete meeting \(scope: today|future|all\)) Tj T* ET
+BT 1 0 0 1 354.6614 26 Tm (Rebalance) Tj T* ET
+BT 1 0 0 1 6 7 Tm (PATCH) Tj T* ET
+BT 1 0 0 1 57.02362 7 Tm (/meetings/{id}/cancel) Tj T* ET
+BT 1 0 0 1 198.7559 7 Tm (Cancel one occurrence for a date) Tj T* ET
+BT 1 0 0 1 354.6614 7 Tm (Rebalance) Tj T* ET
+q
+1 J
+1 j
+.815686 .815686 .909804 RG
+.4 w
+n 0 380 m 439.3701 380 l S
+n 0 0 m 439.3701 0 l S
+n 0 0 m 0 380 l S
+n 439.3701 0 m 439.3701 380 l S
+n 0 361 m 439.3701 361 l S
+n 0 342 m 439.3701 342 l S
+n 0 323 m 439.3701 323 l S
+n 0 304 m 439.3701 304 l S
+n 0 285 m 439.3701 285 l S
+n 0 266 m 439.3701 266 l S
+n 0 247 m 439.3701 247 l S
+n 0 228 m 439.3701 228 l S
+n 0 209 m 439.3701 209 l S
+n 0 190 m 439.3701 190 l S
+n 0 171 m 439.3701 171 l S
+n 0 152 m 439.3701 152 l S
+n 0 133 m 439.3701 133 l S
+n 0 114 m 439.3701 114 l S
+n 0 95 m 439.3701 95 l S
+n 0 76 m 439.3701 76 l S
+n 0 57 m 439.3701 57 l S
+n 0 38 m 439.3701 38 l S
+n 0 19 m 439.3701 19 l S
+n 51.02362 0 m 51.02362 380 l S
+n 192.7559 0 m 192.7559 380 l S
+n 348.6614 0 m 348.6614 380 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 230.6969 cm
+Q
+q
+1 0 0 1 62.69291 188.6969 cm
+q
+BT 1 0 0 1 0 5 Tm 22 TL /F2 17 Tf .356863 .372549 .937255 rg (DELETION & EDIT LOGIC \227 ALL CASES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 182.1969 cm
+q
+.5 w
+1 J
+.815686 .815686 .909804 RG
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 161.1969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (DELETE TASK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 103.1969 cm
+q
+BT 1 0 0 1 14 46 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Recurring task delete modal options:) Tj /F1 10 Tf ( \(1\) Delete today's occurrence only \227 removes only today's) Tj T* (block, future recurrences unchanged. \(2\) Delete all future occurrences \227 removes blocks from today) Tj T* (onward, sets task status = cancelled. \(3\) Delete entirely \227 removes task + ALL blocks + ALL) Tj T* (habit_logs \(second confirmation required: 'This deletes all history too'\). \(4\) Cancel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 86.19685 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Non-recurring task:) Tj /F1 10 Tf ( show only 'Delete this task' and 'Cancel'. No occurrence options.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 69.19685 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (After any deletion:) Tj /F1 10 Tf ( trigger rebalance so freed slots are used by other tasks.) Tj T* ET
+Q
+Q
+ 
+
+
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 773.1969 cm
+Q
+q
+1 0 0 1 62.69291 752.1969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (EDIT RECURRING TASK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 722.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   Show bottom sheet: 'Edit today only' \(one-off override block\) vs 'Edit this and all future occurrences') Tj T* (\(updates task record + regenerates all future blocks\). Always trigger rebalance after.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 713.1969 cm
+Q
+q
+1 0 0 1 62.69291 692.1969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (OTHER EDGE CASES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 662.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Skip options:) Tj /F1 10 Tf ( 'Skip today only' \(mark missed, log to habit_logs\) vs 'Skip and reschedule' \(mark) Tj T* (skipped, rebalance to find next open slot, flag at-risk if none available before deadline\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 631.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Editing availability \227 shrinks a window:) Tj /F1 10 Tf ( warn 'X tasks will need to be rescheduled' before saving.) Tj T* (Rebalance after.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 600.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Two blocks overlap:) Tj /F1 10 Tf ( scheduler must never produce overlapping blocks. If user drags a block into) Tj T* (an occupied slot \(week view\): show error 'Slot taken by [Task Name]', disallow.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 583.1969 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Deadline in the past:) Tj /F1 10 Tf ( allow saving, show inline warning, immediately flag at-risk.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 552.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Duration > longest free slot \(non-divisible\):) Tj /F1 10 Tf ( after adding, show: 'No single free block fits this task.) Tj T* (Mark as divisible or adjust availability?') Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 521.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Complete before scheduled time:) Tj /F1 10 Tf ( mark done, free the slot, trigger rebalance to pull next task) Tj T* (forward.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 512.1969 cm
+Q
+q
+1 0 0 1 62.69291 491.1969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F2 8 Tf 11 TL (DELETE / EDIT MEETING) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 461.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (One-time meeting delete:) Tj /F1 10 Tf ( single confirmation 'Delete this meeting?' ) Tj /F4 10 Tf 14 TL (\256) Tj /F1 10 Tf 14 TL ( delete meeting_block ) Tj /F4 10 Tf 14 TL (\256) Tj /F1 10 Tf 14 TL T* (rebalance \(freed slot now available for tasks\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 402.1969 cm
+q
+BT 1 0 0 1 14 46 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Recurring meeting delete modal options:) Tj /F1 10 Tf ( \(1\) Cancel today's occurrence only \227 sets that) Tj T* (meeting_block status = cancelled, future occurrences unchanged, rebalance. \(2\) Delete this and all) Tj T* (future occurrences \227 removes meeting_blocks from today onward, rebalance. \(3\) Delete entirely \227) Tj T* (removes meeting record and all meeting_blocks past and future, rebalance. \(4\) Cancel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 357.1969 cm
+q
+BT 1 0 0 1 14 32 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Edit recurring meeting:) Tj /F1 10 Tf ( bottom sheet \227 'Edit today only' \(override that one block's time\) vs 'Edit) Tj T* (this and all future occurrences' \(update meeting record + regenerate future blocks\). Rebalance after) Tj T* (either.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 312.1969 cm
+q
+BT 1 0 0 1 14 32 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Editing a meeting's time range:) Tj /F1 10 Tf ( if the new time range overlaps with an already-scheduled task) Tj T* (block, warn the user: 'This meeting overlaps with [Task Name] at [time]. That task will be rescheduled.') Tj T* (Proceed after confirmation. Rebalance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 281.1969 cm
+q
+BT 1 0 0 1 14 18 Tm 14 TL /F1 10 Tf .101961 .101961 .180392 rg (\177   ) Tj /F2 10 Tf (Adding a meeting that overlaps an existing meeting:) Tj /F1 10 Tf ( show error 'You already have [Meeting) Tj T* (Name] at this time.' Do not allow saving.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 266.1969 cm
+Q
+q
+1 0 0 1 62.69291 261.6969 cm
+q
+.5 w
+1 J
+.815686 .815686 .909804 RG
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 243.6969 cm
+q
+.580392 .639216 .721569 rg
+BT 1 0 0 1 0 3 Tm /F3 9 Tf 12 TL 82.61988 0 Td (Slotted \227 Full Build Spec v1.0 \267 Do not build anything outside this spec in v1) Tj T* -82.61988 0 Td ET
+Q
+Q
+ 
